@@ -36,6 +36,39 @@
       "lose"
     ]
   ],
+  "vpet_formats": {
+    "dmc": [
+      "idle_1",
+      "idle_2",
+      "happy",
+      "angry",
+      "train_1",
+      "train_2",
+      "atk_1",
+      "atk_2",
+      "eat_1",
+      "eat_2",
+      "refuse",
+      "sleep_1",
+      "sleep_2",
+      "sick",
+      "lose"
+    ],
+    "penc": [
+      "idle_1",
+      "idle_2",
+      "eat_1",
+      "eat_2",
+      "sleep_1",
+      "sleep_2",
+      "refuse",
+      "happy",
+      "angry",
+      "sick",
+      "lose",
+      "atk_1"
+    ]
+  },
   "sprites": [
     {
       "name": "SnowBotamon",
