@@ -2554,23 +2554,12 @@
       "author": "SeppuCrow",
       "type": "character_sprite",
       "images": [
-        "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst Mode_5.png"
-      ]
-    },
-    {
-      "name": "Rosemon Burst",
-      "stage": "6",
-      "attribute": "-1",
-      "format": 0,
-      "donation_link": "https://ko-fi.com/seppucrow",
-      "author": "SeppuCrow",
-      "type": "character_sprite",
-      "images": [
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_0.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_1.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_2.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_3.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_4.png",
+        "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_5.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_6.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_7.png",
         "https://tero0x.github.io/dmc-sprites/images/SeppuCrow/super_ultimate/Rosemon Burst_8.png",
