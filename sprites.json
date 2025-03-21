@@ -72,7 +72,7 @@
   "sprites": [
     {
       "name": "SnowBotamon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xaJNZdXW6EbZkn-5glTtz_M5mi3b_NL9",
         "https://drive.google.com/uc?export=view&id=16k6EOoqEcUEVcqNE8FxfO94dIxiLEzk9",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Tsubumon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1VgQHhe9s-dZGnQjXmKF3MOL6oNS7LVvq",
         "https://drive.google.com/uc?export=view&id=1JUGwszcUCkH41esxf4YtXD3bnUHhY31b",
@@ -124,7 +124,7 @@
     },
     {
       "name": "Pururumon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=12SN4lZid4B6WA4gn53AZpvOy4CVIZWb0",
         "https://drive.google.com/uc?export=view&id=1o0O6dLznjSKQ1qMkqGZLrqPjbE20SK4Y",
@@ -150,7 +150,7 @@
     },
     {
       "name": "Pettitmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1C-xXq5WcQ86TFygIg55o7WwlWh_42qRD",
         "https://drive.google.com/uc?export=view&id=1mit7-orn9m7KxzDuYWRYePJE_PtTzgkV",
@@ -176,7 +176,7 @@
     },
     {
       "name": "Pettitmon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Tle4aQIANV8z8Wqu0hDdlXlVpwulnl5j",
         "https://drive.google.com/uc?export=view&id=1pphhsgNL9o0PZT-hzKcyhtTixeaF-nK6",
@@ -202,7 +202,7 @@
     },
     {
       "name": "Pettitmon Blue",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1p9l_IaV81vo87YT9MzJqHnMiQYCXJDBK",
         "https://drive.google.com/uc?export=view&id=1PCsG8VD9uCYbaRVbkaPFjmC6NZehAuzG",
@@ -228,7 +228,7 @@
     },
     {
       "name": "Pettitmon Autumn",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1iQJeM3H1b0lkvNvRwP2D8W6fLXiI2N5Y",
         "https://drive.google.com/uc?export=view&id=1C5MPne6SJupfpz0tuDfqvv9qUu6_jVP_",
@@ -254,7 +254,7 @@
     },
     {
       "name": "Pabumon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1IGuP0ckA_r8byd5LAGX4XWKPxKep2_SG",
         "https://drive.google.com/uc?export=view&id=1HpV0M_jp9jhew8HIvmpgXF-KOZ08KLDC",
@@ -280,7 +280,7 @@
     },
     {
       "name": "Nyokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1YCmkJsc-SiL2zdWA8Nqd8dD_RSkgkrjM",
         "https://drive.google.com/uc?export=view&id=1LovRdk7cZmKLiWfi3foK-VJpVFTv6EfL",
@@ -294,7 +294,7 @@
     },
     {
       "name": "Leafmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Hgv6Bgr-je9vRYu9BQL_gaRox79HqpBs",
         "https://drive.google.com/uc?export=view&id=1Q6jUkSkTY-FAmCw12VtJ7C64LOQHTe3Z",
@@ -320,7 +320,7 @@
     },
     {
       "name": "Leafmon Autumn",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1B4BwlImIGj6xiHFd55WiW9TGjWAVvC8j",
         "https://drive.google.com/uc?export=view&id=13Jf7_g2z2Gt8ka0G4hHjtwrZe4EGYWfq",
@@ -346,7 +346,7 @@
     },
     {
       "name": "Kiimon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1HT9rpWM8v8Ovu_04L-5gO24Cuzt-XWn7",
         "https://drive.google.com/uc?export=view&id=16yy0PBd4f4Fg1-nCCb9XoGyWvVh8cAfN",
@@ -372,7 +372,7 @@
     },
     {
       "name": "Kiimon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1raDtSZ8nQ-nA49zwjzYqIrwT3n00bnht",
         "https://drive.google.com/uc?export=view&id=1LZvY7wvEmtbuc5HMTIsR7ZOKVXpaAnKC",
@@ -398,7 +398,7 @@
     },
     {
       "name": "Kiimon Ice",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1vUCuFOdPJmshhgqiH4zKlcHpOhaaNff2",
         "https://drive.google.com/uc?export=view&id=1B0yB8ykWy-4EKQeSlsFuj4Gs1XGL--vf",
@@ -424,7 +424,7 @@
     },
     {
       "name": "Kiimon Black",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1l9Wy_VbRD6C3x-t3A5ALI_g10wsR61zC",
         "https://drive.google.com/uc?export=view&id=1CRHuT_nSWRvDSz8St1YJC4SxFeXWWAiU",
@@ -450,7 +450,7 @@
     },
     {
       "name": "Fufumon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1OyHd64nybuCZ1Y0Hp0IWCf48loM472uM",
         "https://drive.google.com/uc?export=view&id=1DJMp9LbLBJWjX4TW_XwtLJX1jVwwySiD",
@@ -476,7 +476,7 @@
     },
     {
       "name": "Dokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1YBVcC-uE4Jv9aW4NFgzFBRuO5IaKhXcU",
         "https://drive.google.com/uc?export=view&id=1_LOpCDJwHddHQAkHbWrcnmdLz7BAlPY9",
@@ -502,7 +502,7 @@
     },
     {
       "name": "Dodomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Pe4fhxe8EvRVDDkXmHzmk98zDlNO3QWS",
         "https://drive.google.com/uc?export=view&id=1fYcIDgpBWIVdDMkMToVV_6pquq3kS4MQ",
@@ -528,7 +528,7 @@
     },
     {
       "name": "Dodomon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1HLw7X76BbJHnHmfwQ2VuofZkN2xQbCAx",
         "https://drive.google.com/uc?export=view&id=1gKbnSK8udfpONr1aLJ9P--yv1Rt-gG1Y",
@@ -554,7 +554,7 @@
     },
     {
       "name": "Dodomon Blue",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=16Bfkl_4Pudl61zoBb1WJldmKI9zBL6NR",
         "https://drive.google.com/uc?export=view&id=1fLZs0bWGMETg4eb-NDZKG6kZqzNHmfHw",
@@ -580,7 +580,7 @@
     },
     {
       "name": "Dodomon Black",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ipKuBtEVIOBdCRLebhEAp-ub4Xtdx4EZ",
         "https://drive.google.com/uc?export=view&id=1veZtlJ2Xkuual8_urSVRD7KloUnDmdQH",
@@ -606,7 +606,7 @@
     },
     {
       "name": "Botamon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1_bDdfOOHXXf5zAqB4SzyqaWphlIa2bpt",
         "https://drive.google.com/uc?export=view&id=1m285PqeGNqpvL6zp_m7CEQmAe6vHyjY8",
@@ -632,7 +632,7 @@
     },
     {
       "name": "Curimon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=10EK5S00WI83jQb8lWhLjKxseHEFytiqS",
         "https://drive.google.com/uc?export=view&id=1TIG4ssV_B9tC7_XkCbNBwLkDvjrfYrPh",
@@ -658,7 +658,7 @@
     },
     {
       "name": "Chibomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1y56MqKtCp8HLEKEePpzeeGF7EPKICSo9",
         "https://drive.google.com/uc?export=view&id=1QLjjemEu2OYHSZ1h4hwClbqOLVoNOqsj",
@@ -684,7 +684,7 @@
     },
     {
       "name": "Bombmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=12_KT1nX2J_xouYy1bZToMyC1huVN9QtH",
         "https://drive.google.com/uc?export=view&id=1uXQ4pMYfGrnCAxG9PN-6kGQRr9UyoNlp",
@@ -710,7 +710,7 @@
     },
     {
       "name": "Zubaeagarmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1PkClRfbdsc02JWCRS1i75gmm5zMrX_9Z",
         "https://drive.google.com/uc?export=view&id=1QJV8p_aRTISDo3ngy4RANzfjIp8nV8Ul",
@@ -736,7 +736,7 @@
     },
     {
       "name": "Zubaeagarmon Silver",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1wA4YMbfZBH6Gul_PzLuz-gIEXcDYuNV5",
         "https://drive.google.com/uc?export=view&id=1L3nmFCuLCVz53J1ntc6P9NSUCRdlRyS4",
@@ -762,7 +762,7 @@
     },
     {
       "name": "Zubaeagarmon Black",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1OIYYVQDxLe7NX3nrLeD5L43c8_ibsPT6",
         "https://drive.google.com/uc?export=view&id=1fG-R7CljOLwiScCh7m0rHYIrx578ucr3",
@@ -788,7 +788,7 @@
     },
     {
       "name": "Tyrannomon Abyss",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ymW-V8BTHNHL8cPiN0QtwZe9O5Bm2CrE",
         "https://drive.google.com/uc?export=view&id=13X_EHOTOcx4Isth81xOZq4zFooeJq33n",
@@ -814,7 +814,7 @@
     },
     {
       "name": "Tyrannomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1IX6EMmeX_pv-pFTWVEa9sPRSFs8MyzQB",
         "https://drive.google.com/uc?export=view&id=1pyiCO3DTW5cbFs2zx5OxrlS8hVOgBWjr",
@@ -840,7 +840,7 @@
     },
     {
       "name": "Tyrannomon Spyro",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WJQOzZnL5Sx1M6wsALBPLHUsPzwAB9_O",
         "https://drive.google.com/uc?export=view&id=1DgWLlP-PKnx1R9eM4427wCzL-b5R8AHi",
@@ -866,7 +866,7 @@
     },
     {
       "name": "Tyrannomon Navy",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ljFwgrUxkT687bhQI09WvbbQIPWTaCFe",
         "https://drive.google.com/uc?export=view&id=1Y3umn-X9flAY-bbZyUB5wcDzA63sgW43",
@@ -892,7 +892,7 @@
     },
     {
       "name": "Tyrannomon Melon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WwSdUHdoxFkanZcFWh_vCtk1HkG3NqNe",
         "https://drive.google.com/uc?export=view&id=1B-PdHR2cE9Ii4m7MdOUtehJpFzaenzCV",
@@ -918,7 +918,7 @@
     },
     {
       "name": "Tyrannomon Grey",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1SH6iIk8V6ijW-l2kAsTwbNJMIyS8gexb",
         "https://drive.google.com/uc?export=view&id=1TK7nCVJbXVr7c0YR7FR_IUD2gsq10qq6",
@@ -944,7 +944,7 @@
     },
     {
       "name": "Tyrannomon Frost",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ZSsFx7WMxKZ9MKtm6YPSqaVatqZTKll3",
         "https://drive.google.com/uc?export=view&id=1BVbYoB7oEwR5v0rCtC-UfWrZeJR8uKEW",
@@ -958,7 +958,7 @@
     },
     {
       "name": "Pidmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1JBXpjaPzQjcuhuuQScyyxi2pGh7bR5qw",
         "https://drive.google.com/uc?export=view&id=1goCK2kNZue2nf4DnEznRPw_r4RRnUXX0",
@@ -984,7 +984,7 @@
     },
     {
       "name": "MailBirdramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Q7UrRyG7EU7A7dvbKbckq7596OHcjoeO",
         "https://drive.google.com/uc?export=view&id=1thNxTSxDovIuRXZ6hoCz9KBOqO0Do6Ym",
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "MailBirdramon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dGMENDvlYHCpolEfCiNTAAOJbjk4SUsg",
         "https://drive.google.com/uc?export=view&id=1v_lHxkMXcBb-TIrsG-RHvxTNqBEXABRw",
@@ -1036,7 +1036,7 @@
     },
     {
       "name": "MailBirdramon Gold",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1M8HIyXsZfUfxJDraupxL-XIelti-QjmS",
         "https://drive.google.com/uc?export=view&id=1vSQz6qxmoPK1aNACZ0yJVU3881Ik9O7y",
@@ -1062,7 +1062,7 @@
     },
     {
       "name": "MailBirdramon Black",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1GmfRHuZOByscF8r6o3kWQgOrv5xXLrfL",
         "https://drive.google.com/uc?export=view&id=1Yn1ImAGWnq0BDxTlKW7JbP9DFdCwTTr8",
@@ -1088,7 +1088,7 @@
     },
     {
       "name": "Leomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1KLzPXxJiJhlBF6uY68Aumq_3YWqcnVff",
         "https://drive.google.com/uc?export=view&id=1YpnbV4TUr9FS09MFDrLYsKvEbTFVzdwk",
@@ -1114,7 +1114,7 @@
     },
     {
       "name": "Leomon Monochrome",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=12Eq8iqQsK-3DubsOHI2A_97NxHNJ6HCI",
         "https://drive.google.com/uc?export=view&id=1TMSj5uYnsQATqqxDv01gAm7Vnv6YP0Ke",
@@ -1140,7 +1140,7 @@
     },
     {
       "name": "Leomon Jungle",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1RhQzGKA0Ttu7GB2-Og2EPa72lLW2TV_7",
         "https://drive.google.com/uc?export=view&id=1VYPUbrtlF76lEmdEK6JdOa9xkVVZopCd",
@@ -1166,7 +1166,7 @@
     },
     {
       "name": "Leomon Dark",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QAllE-IAzwW-rO5wuJy0kdBPKIIqJjwv",
         "https://drive.google.com/uc?export=view&id=1a95p19sBSBK8y2KECnXcyeSOhr1EnnKN",
@@ -1192,7 +1192,7 @@
     },
     {
       "name": "HiCommandramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1m0toGfR8Pf_FgskQUS3ARV0OE1Mx93HB",
         "https://drive.google.com/uc?export=view&id=1HK4oiA97CioTeRBVzyN8DjhYd_1BC1L_",
@@ -1218,7 +1218,7 @@
     },
     {
       "name": "DarkTyrannomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WqkgMFGhw8RjNjg1P6xvpvDsPmwGBgEq",
         "https://drive.google.com/uc?export=view&id=15me5E5IxKEuiLu15CEzyMkNzkS5F6MMZ",
@@ -1244,7 +1244,7 @@
     },
     {
       "name": "DarkTyrannomon Melon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QkTP7Dzy4EQ098VuQZ9koRLVVFhUGQSW",
         "https://drive.google.com/uc?export=view&id=1u5XQx65uYgT0Nr9tAAblvfHQ6D9eyoqs",
@@ -1270,7 +1270,7 @@
     },
     {
       "name": "DarkTyrannomon Fruity",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1rNk4QNG6EKjAJ9dysY5iQKgI9cK4NXp-",
         "https://drive.google.com/uc?export=view&id=1RKo6h2LR1a-5yBtGBfpQpAyViF8MiepY",
@@ -1296,7 +1296,7 @@
     },
     {
       "name": "DarkTyrannomon Frost",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xJ6oiTWYOZpHu4UqtgNGLenQOOVrk_Kq",
         "https://drive.google.com/uc?export=view&id=1qOI2zG4ZbL8tXMDPm1jF2ZeYmehPdZBz",
@@ -1322,7 +1322,7 @@
     },
     {
       "name": "Greymon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dqGSXByns5RD2Ejx2CIyRIHmVLrbXIVM",
         "https://drive.google.com/uc?export=view&id=16AoEtJpKfmKHzac06lKf4uAGSpSkV_xe",
@@ -1348,7 +1348,7 @@
     },
     {
       "name": "Greymon Yellow",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1mHV5-FbGlwesarnA9BQA-9tDwWFEvIak",
         "https://drive.google.com/uc?export=view&id=1MhwbNkgRH8i3LR-Kftr8M1zcnb3oIu-v",
@@ -1374,7 +1374,7 @@
     },
     {
       "name": "Greymon Wild",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QAzotKFOBERSyJarPd1zV0L6XcmmZY4_",
         "https://drive.google.com/uc?export=view&id=1jfPEST5jWn8CDkVZw_XTg8CpCuxzSRM8",
@@ -1388,7 +1388,7 @@
     },
     {
       "name": "BaoHuckmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=175OXLpfDNOiVOlHwTZMFHgeepNkyapwP",
         "https://drive.google.com/uc?export=view&id=107VOtsOTwkCD7v7TvEFzEOiN_LIaeatD",
@@ -1414,7 +1414,7 @@
     },
     {
       "name": "BaoHuckmon Yellow",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WSW21uizD8uspdv1nE9k8Jm_kYUVVcNj",
         "https://drive.google.com/uc?export=view&id=1Uk20tsTfKZ-p3hPVwWeVCV_lIOwnPlHf",
@@ -1440,7 +1440,7 @@
     },
     {
       "name": "BaoHuckmon Purple",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1-W7b-PBse78eJqHtsU7BJ0tIVPis9wyG",
         "https://drive.google.com/uc?export=view&id=1ya44ZXgnqfzaqEJssS1NRTjQFfqqUrzw",
@@ -1466,7 +1466,7 @@
     },
     {
       "name": "BaoHuckmon Pink",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=12aLMnh1d3pyY1axeP-6eSDkP9zraKgWR",
         "https://drive.google.com/uc?export=view&id=1pEBvnlob47lWZlLeyOlTu_1K2qpizfT-",
@@ -1492,7 +1492,7 @@
     },
     {
       "name": "BaoHuckmon Orange",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1lWPA1XIZDWDPGfNA_4MaCt2N0j_lRH9X",
         "https://drive.google.com/uc?export=view&id=1CcPjIHB8RHW2YdtzyOxldUSgtoxspWqF",
@@ -1518,7 +1518,7 @@
     },
     {
       "name": "BaoHuckmon Green",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1jT3dZ5J8sI3kjfk5TffaUU0tDvSi1fYU",
         "https://drive.google.com/uc?export=view&id=1VN8Edj5Jpa3d_Emt1BgUx59AHt9E4L4J",
@@ -1544,7 +1544,7 @@
     },
     {
       "name": "BaoHuckmon Gold2",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1kYnBya8IzSkyE4JJjCdrfilfxBL33K8w",
         "https://drive.google.com/uc?export=view&id=1kq9-egADT79TXcEadqPOx88pNXBInAeT",
@@ -1558,7 +1558,7 @@
     },
     {
       "name": "Rosemon Burst Mode",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1aCMWXiqYVp9AJsY4VaQ1ZSdT3-T3VHnt"
       ],
@@ -1569,7 +1569,7 @@
     },
     {
       "name": "Rosemon Burst",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WlfnbLMFVP-lfr_OhimEDELW84mbO7ol",
         "https://drive.google.com/uc?export=view&id=1QFsnhWGPeN8jg4GT2nsrOvj7HQEpzh4N",
@@ -1594,7 +1594,7 @@
     },
     {
       "name": "Imperialdramon Paladin Mode",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1KHabY_1qLpje9umYMlYAsbiMBnmn371u",
         "https://drive.google.com/uc?export=view&id=1Jh_R--etIWiJ8QP22fXVx8gfIe2YYkYA",
@@ -1620,7 +1620,7 @@
     },
     {
       "name": "Imperialdramon Paladin Mode Sapphire",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=161iTONroI2faT7275Bk3bKgPZSQfAEX1",
         "https://drive.google.com/uc?export=view&id=155PbCuIpfZijQF3qr_Tvzhl5zTAhaRwZ",
@@ -1646,7 +1646,7 @@
     },
     {
       "name": "Imperialdramon Paladin Mode Gold",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1mtYKBRkNHfsFoDSz9uojnVYLyhJpa6aZ",
         "https://drive.google.com/uc?export=view&id=1iZNY56l2IjpGG3vbf4vTfP_dVr6_TRAv",
@@ -1672,7 +1672,7 @@
     },
     {
       "name": "Imperialdramon Paladin Mode Crimson",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1f83bgFlr96ZzuWqvhZDza_KjavbMyAdL",
         "https://drive.google.com/uc?export=view&id=1evap2qNnI_paVTuoDp2ryRsDce3hLLPG",
@@ -1698,7 +1698,7 @@
     },
     {
       "name": "Imperialdramon Paladin Mode Copper",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1s9AkCbp-TqaJFIz1nUl33hXVcXlbOIX7",
         "https://drive.google.com/uc?export=view&id=1DNj5_cvcz2fwiUURQP-6tRec6gLY9444",
@@ -1724,7 +1724,7 @@
     },
     {
       "name": "Chaosdramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1vKjN0ijMNRLGbVHH4c9BGAYkFgKGb0aq",
         "https://drive.google.com/uc?export=view&id=1k8gW2xXhOWXqYeKdvNBoLCE9kwdxVD9G",
@@ -1750,7 +1750,7 @@
     },
     {
       "name": "Chaosdramon Tank",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1kPWrWnLqGh3p-G6Go4UviAYZfEexoR3G",
         "https://drive.google.com/uc?export=view&id=11IYEipuUidZRV33ODj5u_JWqMCVt_MwC",
@@ -1776,7 +1776,7 @@
     },
     {
       "name": "Chaosdramon Cobalt",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1EmK-zJvS0fhoQWpb9yZkeyX2KOy-FxkA",
         "https://drive.google.com/uc?export=view&id=1EYkW7KUVMHM4LpOmWyuZuOwylk1ox_lz",
@@ -1802,7 +1802,7 @@
     },
     {
       "name": "WarGreymon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ObBTmFtoQ90mzC_-1g_nf2Q7KsuKzLLe",
         "https://drive.google.com/uc?export=view&id=1D1VZ7JtfxLUcPSUx_j2pSuN6IuqDz8Zg",
@@ -1828,7 +1828,7 @@
     },
     {
       "name": "WarGreymon Nova",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1O6vaKDHMbu3yeeD_e2-WrsL4e2fxHNz4",
         "https://drive.google.com/uc?export=view&id=1sShG0BZp5jMepfPi7_2ZrxKzcQ_htsXs",
@@ -1854,7 +1854,7 @@
     },
     {
       "name": "WarGreymon Nightshade",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1AN5PMbSuuDV03LkrrF2CwdFLmcVZk2vN",
         "https://drive.google.com/uc?export=view&id=1xHmc0ayEdPv636TPAiJ9jE3hiGwCGljV",
@@ -1880,7 +1880,7 @@
     },
     {
       "name": "WarGreymon Frost",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1XT3zgNUvuF3EOHXSyA_Idprb4Ic1o_Qw",
         "https://drive.google.com/uc?export=view&id=1-sXmTtAbUmouEFVEsPA-nH0A-Ws8v16Z",
@@ -1906,7 +1906,7 @@
     },
     {
       "name": "WarGreymon Crimson",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1eHvO-haSN-ybbkiR3AfPvvewJ2DK1Too",
         "https://drive.google.com/uc?export=view&id=1W3al6O1XLeHpyqCbsVmUIraSI3yvVVUc",
@@ -1932,7 +1932,7 @@
     },
     {
       "name": "WarGreymo Chaotic",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1YX2SOTheiUsw9eS3GPLmM-v-PJsFwGno",
         "https://drive.google.com/uc?export=view&id=1LOSuCqiED8GCuoPZ0EUFQKKukmDKk1ru",
@@ -1958,7 +1958,7 @@
     },
     {
       "name": "Sakuyamon X",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1TdWVaSoUaNbZJ_4fPuyQQS2LzR5cURZu",
         "https://drive.google.com/uc?export=view&id=1JoR0tgJ2G48qFJoXKPWuyHF28yvkQEqy",
@@ -1984,7 +1984,7 @@
     },
     {
       "name": "Machinedramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1RTpx-F-ciRTHCLeSYWOUgYUF6lchqHJv",
         "https://drive.google.com/uc?export=view&id=14Jyl0KRvAgcDzbSuNEXtM09aTsa6tVQa",
@@ -2010,7 +2010,7 @@
     },
     {
       "name": "Machinedramon Gold",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1G58MlpodulZgiYu2cLJ3zL6uPSH41ZQa",
         "https://drive.google.com/uc?export=view&id=1jrDv42TkglhxjjYZdoOA3sgwih2LXEqe",
@@ -2036,7 +2036,7 @@
     },
     {
       "name": "Machinedramon Crimson",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=14CGm4f1QCOFQEfxXqfMM6lTH-9tvT2u6",
         "https://drive.google.com/uc?export=view&id=1eIKOeubrzxwGf8HFLI47Qy2MSC7ufejr",
@@ -2062,7 +2062,7 @@
     },
     {
       "name": "Machinedramon Copper",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1JJe_GaF2cK4w2u60eBMXs46eE89awdcD",
         "https://drive.google.com/uc?export=view&id=1TSiMBC-c_H58OhHFWtJjT74C7wocilqf",
@@ -2088,7 +2088,7 @@
     },
     {
       "name": "Machinedramon Black",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ozYkLUZC8Cy80YZbf3O5zzmqHLA3l-A4",
         "https://drive.google.com/uc?export=view&id=1MFKzUUa6PwY_33IUA4yHavw_1ggP2tWA",
@@ -2114,7 +2114,7 @@
     },
     {
       "name": "Jesmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1e7KF8zFhMAmMCFyfSItrivlGFp-AEfC7",
         "https://drive.google.com/uc?export=view&id=1TQEwBXDOtq_jH9eYrFGfFkzuk01lcepq",
@@ -2140,7 +2140,7 @@
     },
     {
       "name": "DeXDorugoramon Crimson",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=16Qi1qbLBHSqjC58jJ7FMM5rdy-5rwfW-",
         "https://drive.google.com/uc?export=view&id=1AMi4d_LiNOvnaJJXD5-yBmyS4wT6Sloy",
@@ -2166,7 +2166,7 @@
     },
     {
       "name": "Dorugoramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1B0H1PacLuPjpux-E9IaI3H-1gDvNI6Lm",
         "https://drive.google.com/uc?export=view&id=1apoYeK7n1mzCmm3NUVLn5trixKrFkf-t",
@@ -2192,7 +2192,7 @@
     },
     {
       "name": "Dorugoramon Shadow",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1rYjIzLAGU6dwDeKBCEXrcxdEaFoAESrX",
         "https://drive.google.com/uc?export=view&id=1m8uq7lnS79VZ4J2kDspyafNAzcq7ZaJJ",
@@ -2218,7 +2218,7 @@
     },
     {
       "name": "Dorugoramon Phantom",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1LEalnAtoMj-UyF-MnqWe9tSu-dT0slbo",
         "https://drive.google.com/uc?export=view&id=15LJqbNefoe8i0LJ2aai1zzDIhuunIqrh",
@@ -2244,7 +2244,7 @@
     },
     {
       "name": "DeXDorugoramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1_wFB_s2ZPNrlzkRfpnHBlkkGguHMZSq7",
         "https://drive.google.com/uc?export=view&id=1fuxHioiWsFx2gh4MAgOptbm6kWzIVztr",
@@ -2270,7 +2270,7 @@
     },
     {
       "name": "DeXDorugoramon Teal",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1M9gyl9jBQymJa7FEXNeLjqVMlcy6rjuD",
         "https://drive.google.com/uc?export=view&id=1nuzbg2VKaX4J2ZMV1EkLOCCLpd8Sb5WW",
@@ -2296,7 +2296,7 @@
     },
     {
       "name": "Gallactimon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1JqhMGFfOnzHsbGd7CFUxAU0mVPBxNMjy",
         "https://drive.google.com/uc?export=view&id=17nZYIH0SSfViAdD-CLoIwaetsT21DxsQ",
@@ -2310,7 +2310,7 @@
     },
     {
       "name": "Alphamon White",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xV7_T8YLWFyFXExKV9VOQwnLDu31_9OJ",
         "https://drive.google.com/uc?export=view&id=1PqILRKscUQ84DEJ8tcUjFIfKZ0uRbN__",
@@ -2336,7 +2336,7 @@
     },
     {
       "name": "Alphamon UltraViolet",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1sKHo3QHDGva0KkQ6yfkyXG0TKhKCJD7u",
         "https://drive.google.com/uc?export=view&id=1QmrO5k-Cy5pHjPtKnjG9pveujIU3j-lt",
@@ -2362,7 +2362,7 @@
     },
     {
       "name": "Alphamon Sky",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1W7IAK8w0WNWXzmEumRmlOwhy3SZKe-T9",
         "https://drive.google.com/uc?export=view&id=18FtxKmMFG85EgegaxW9RYl792di8aNac",
@@ -2388,7 +2388,7 @@
     },
     {
       "name": "Alphamon Moonlight",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WFZ3ct_1w-sZMjQxmerqRv8Dqkh7FNqA",
         "https://drive.google.com/uc?export=view&id=1cSGbDnrbWaa0jDfmIOyANTtDkxds8slX",
@@ -2414,7 +2414,7 @@
     },
     {
       "name": "Alphamon Forest",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1KMVF3ZUOWMulpYNMOHH4n50ZthxVRCxV",
         "https://drive.google.com/uc?export=view&id=1PW6_SlMvkJjVv21GMg-4Sw1xwKSdkIw-",
@@ -2440,7 +2440,7 @@
     },
     {
       "name": "Alphamon Crimson",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1k2GtKRaYd_WLqGmAQWPZHuxfsPNJ_9Vs",
         "https://drive.google.com/uc?export=view&id=17jIKpZJPuFokRPt-PF5tOQ2aKzqRe6mk",
@@ -2466,7 +2466,7 @@
     },
     {
       "name": "Alphamon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1u5sVDimtRkwBRx7r9WdfdeCung9cW5LS",
         "https://drive.google.com/uc?export=view&id=1MqxL3m0xYeYmB5juUcUvBj4ZSp8sML5C",
@@ -2480,7 +2480,7 @@
     },
     {
       "name": "SaviourHuckmon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=10Nqf7vUqSNcHApw6Kg6gUyYwxJR2mq0e",
         "https://drive.google.com/uc?export=view&id=1HhAGRFrLK_veCSVSNNfi015JcQC0QHiG",
@@ -2506,7 +2506,7 @@
     },
     {
       "name": "SaviourHuckmon Yellow",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xXZ5_LMJNbETSj3o2VRZ4q5G_lWZ-BJa",
         "https://drive.google.com/uc?export=view&id=1KRmxT_Gx4UTvY5ipI039_w3yJ_TpzujE",
@@ -2532,7 +2532,7 @@
     },
     {
       "name": "SaviourHuckmon Purple",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Xbkp3PgCrM_lfZXAqn2Uyt8iLvhWFmGo",
         "https://drive.google.com/uc?export=view&id=1pI79KUTkJutrYipK594Shmy_Mz7i-NQB",
@@ -2558,7 +2558,7 @@
     },
     {
       "name": "SaviourHuckmon Pink",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1efHcDrr-Ixj-AncsnR42ZZeFSbMkHAk4",
         "https://drive.google.com/uc?export=view&id=1zfAY7EDJ6hcsEFy4XeVV4nPHac88Uvf2",
@@ -2584,7 +2584,7 @@
     },
     {
       "name": "SaviourHuckmon Orange",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ADsrnlDMcSJD45Mx6evMeT-PvlAQeaHr",
         "https://drive.google.com/uc?export=view&id=1RRE02htQ5Y4gvSPCM5MTpsI5bSFcfPd_",
@@ -2610,7 +2610,7 @@
     },
     {
       "name": "SaviourHuckmon Green",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1DvjQAngPQrinUxlB9AZamCTxhSO6yonx",
         "https://drive.google.com/uc?export=view&id=1ZHY9vkLES-rxwuD_07_ES-OrIH0tV_5Y",
@@ -2636,7 +2636,7 @@
     },
     {
       "name": "SaviourHuckmon Gold2",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=16Dj-9WE4IWPJtPLw-lS4uDjXdBVrxHtJ",
         "https://drive.google.com/uc?export=view&id=1k_34h8gjnJgpLnGN7rQEFN2un9kTuiVJ",
@@ -2650,7 +2650,7 @@
     },
     {
       "name": "Panjyamon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1YaCCg2ky_cM7QEGvl8GUvx0jXBjzc8KX",
         "https://drive.google.com/uc?export=view&id=1p3iY54m2556PtRW9NObMTDb80PdABRSw",
@@ -2676,7 +2676,7 @@
     },
     {
       "name": "MetalGreymon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Kopcn8H-iGu6aOXymxcgKOLNpt1J6z8Y",
         "https://drive.google.com/uc?export=view&id=1BRCJ_QvDR7wlPL5vX7JT4mDrimQYNJmJ",
@@ -2702,7 +2702,7 @@
     },
     {
       "name": "MetalTyrannomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=12nzOjF5PMdNEQdY3W7TKuHarbVOIVwM2",
         "https://drive.google.com/uc?export=view&id=13u6Kn37vOkkh7fecn7BFV56lQVSA8Y5-",
@@ -2728,7 +2728,7 @@
     },
     {
       "name": "MetalTyrannomon Rust",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1CKHeEp9UzwhiLz_IAT_SSxw8zWGFjBjL",
         "https://drive.google.com/uc?export=view&id=1oztH9ibfwd1iq9A9WvW4Pk0l7hGY0OFT",
@@ -2754,7 +2754,7 @@
     },
     {
       "name": "MetalTyrannomon Frost",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1LjnSoYb8FfM7N4zBvVuHYvCm8rJAq64Q",
         "https://drive.google.com/uc?export=view&id=1jE8t0YX8ndFajYvFpXyjo3wrSxaw2DEf",
@@ -2780,7 +2780,7 @@
     },
     {
       "name": "MetalTyrannomon Dusk",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1FeLbOKHcYp7SrhKv8CqX0tYLG1aUPTa6",
         "https://drive.google.com/uc?export=view&id=1G6qy2oajRBrftiSqEFkpHsH_yeHYkvX7",
@@ -2806,7 +2806,7 @@
     },
     {
       "name": "MetalGreymon Virus",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1MGRgOP4x9uBac8lkoUJpZoI0IbNEy_fD",
         "https://drive.google.com/uc?export=view&id=1Rg2eXECTdYqiSYWZfPUtpbGeWNrbC59C",
@@ -2820,7 +2820,7 @@
     },
     {
       "name": "Dorugreymon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Gd_CeRZdxcmHpstm_5mQrRAlf0oKt44w",
         "https://drive.google.com/uc?export=view&id=1L2YegvtFvghqDEYuABT-jjN7e4AwIVbI",
@@ -2846,7 +2846,7 @@
     },
     {
       "name": "Dorugreymon Yellow",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1d1igXM6F89OjnBaBQXD-7dAQH5VHF0bT",
         "https://drive.google.com/uc?export=view&id=1jr89oXnzFQ06z3os3ysyjTRqKqxjvljz",
@@ -2872,7 +2872,7 @@
     },
     {
       "name": "Dorugreymon Teal",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1jYHnUVa_HmZEX6pvDjqLqQ8a9cavCT4o",
         "https://drive.google.com/uc?export=view&id=1gtfgxccyQfsY_RCW5O2t8aOvB2AngHTw",
@@ -2898,7 +2898,7 @@
     },
     {
       "name": "Dorugreymon Purple",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Z6d0jQaqPwmjWX2YrDO7w5-vps0Sn4bG",
         "https://drive.google.com/uc?export=view&id=11PSe0l_KxPDHRONsiGZltLf0iMAh9mly",
@@ -2924,7 +2924,7 @@
     },
     {
       "name": "Dorugreymon Pink",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1OZ04vHLi63OPzRKA43j58QNoOkTV5LKh",
         "https://drive.google.com/uc?export=view&id=1CTBx1EgdYwZgO23daoZi4t9SdsWydegL",
@@ -2950,7 +2950,7 @@
     },
     {
       "name": "DeXDorugreymon Dark",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1GVo7-R9K2e9MFjMIm-ubhwZhua6ccHEK",
         "https://drive.google.com/uc?export=view&id=1g45_3HuAiseQuCaWeQm4OgpgoB_sYuzK",
@@ -2976,7 +2976,7 @@
     },
     {
       "name": "DeXDorugreymon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1caXOfjMJeYvXfLTOJEAE0ypzBDudG5O5",
         "https://drive.google.com/uc?export=view&id=1WzC8tFLKjmgGSI5QBc5swqkG3s_tJs3d",
@@ -2990,7 +2990,7 @@
     },
     {
       "name": "Cyberdramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1oFxBHXa0n-ivQ2c0eLEs3bx6Nr-Oa-qr",
         "https://drive.google.com/uc?export=view&id=1zMq0jiUDGh7Fod7NfnDnVNKqkgCGVy_t",
@@ -3016,7 +3016,7 @@
     },
     {
       "name": "Cyberdramon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1rPSpsqa0qGJuugf0Yn2ccfR4WWp16dkv",
         "https://drive.google.com/uc?export=view&id=1y3ogEal5ey4fPF7F8fz0W4m-UFVSyBqF",
@@ -3042,7 +3042,7 @@
     },
     {
       "name": "Cyberdramon Gold",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1jX9WKEb1XXUKxsPD87_zpWlNYpSmsfDc",
         "https://drive.google.com/uc?export=view&id=1SK2nTmtyAUzKoFeTwKHkrAPHfeDN2OzP",
@@ -3068,7 +3068,7 @@
     },
     {
       "name": "Cargodramon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=11NR4fdBcdRrZGourN1qWoJC2eFSfnYJN",
         "https://drive.google.com/uc?export=view&id=1d8LLIWt-n3ZDbDSvrv5-DjnnRs0Mop1V",
@@ -3094,7 +3094,7 @@
     },
     {
       "name": "Cargodramon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1P7BduNH2KnPHEHYYxDghK6pgzHpHiQSG",
         "https://drive.google.com/uc?export=view&id=178Bt8cySgpc1DoZAp2A5izymtgcw8FHA",
@@ -3120,7 +3120,7 @@
     },
     {
       "name": "Angewomon",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1nwJba5OFeNSXeJBWdjuzsJkhIbfG0YJ3",
         "https://drive.google.com/uc?export=view&id=1bF-Mgadp9zj-gxHs8g-3AFnbET9_Mts8",
@@ -3146,7 +3146,7 @@
     },
     {
       "name": "Angewomon Red",
-      "stage": "baby_1",
+      "stage": "0",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Vuj3_K85uaEKXUWFgdfsoFgDi-icFq-C",
         "https://drive.google.com/uc?export=view&id=1RdtxAjzmZUIY0pBTNJmernJ5qtsVNAkE",
@@ -3160,7 +3160,7 @@
     },
     {
       "name": "Zubamon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1HTlpWISIKxGL4rbpQjj7bKi2WAlyVvJF",
         "https://drive.google.com/uc?export=view&id=1M5RLzpTjxX9soUtUbKkHXJIsbX8kcdk1",
@@ -3186,7 +3186,7 @@
     },
     {
       "name": "Zubamon Silver",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1X5xkFjiEs-Bgi-p3GNwj1yv6jBq3tQcv",
         "https://drive.google.com/uc?export=view&id=1MCpFSXz21sJbvtuH0DTTVr6nZe1QSbOR",
@@ -3212,7 +3212,7 @@
     },
     {
       "name": "Zubamon Black",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=19rXjKhEl7IZt7iH8asDaexhKtOyz2rT7",
         "https://drive.google.com/uc?export=view&id=1BsEPLZ4HdxFmIPTWOeUrMYYFKbUYMV7n",
@@ -3238,7 +3238,7 @@
     },
     {
       "name": "Wormmon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1uNikfAXCt9a9FPO11vRCvOJMvK87tdw6",
         "https://drive.google.com/uc?export=view&id=1Qfo0YdDY_CyplCM1seAVjpPUu4he_0uI",
@@ -3264,7 +3264,7 @@
     },
     {
       "name": "Wormmon Red",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1PQVmtEcv3GjcK4Rds1yw4PwGMZvaNiY8",
         "https://drive.google.com/uc?export=view&id=1HyTPcuM4_EfTHD5JuOXbuRmj0AQQIBUU",
@@ -3290,7 +3290,7 @@
     },
     {
       "name": "Wormmon Blue",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1-Sv2E3am25M7WUuXyxA8ykS2Q9tHxjSt",
         "https://drive.google.com/uc?export=view&id=1EWDSQrCXu3guv-XS48-WBJjUlOrhkjlM",
@@ -3316,7 +3316,7 @@
     },
     {
       "name": "Wormmon Black",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1_JgVPX_ApHyua-vc_-R5-5lDo_GYYXQ9",
         "https://drive.google.com/uc?export=view&id=18LbHfiVUj334BcpezzVUdrcG_O57jUJy",
@@ -3330,7 +3330,7 @@
     },
     {
       "name": "Terriermon Joshu",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1_I8WblXEbmFBEM0N3G6bFuogt04mjCCO",
         "https://drive.google.com/uc?export=view&id=1vrT-RR0H4l0BhtPz0K3ImJL3VaiSbm8G",
@@ -3356,7 +3356,7 @@
     },
     {
       "name": "Renamon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1VDCAdxTjFcTNNLa9GPw42Rh4ZUT12uts",
         "https://drive.google.com/uc?export=view&id=1o8HrLB7gyUcyMlThD9HJLMEDe21Kn7m-",
@@ -3382,7 +3382,7 @@
     },
     {
       "name": "Renamon Violet",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1cdF-ogj2tHBfnyf9J-_hfJzzrmc9cIkh",
         "https://drive.google.com/uc?export=view&id=1bIFdejCniqSD74HDIcV9Epze2MGU4Lc5",
@@ -3408,7 +3408,7 @@
     },
     {
       "name": "Renamon Teal",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1i3omQ6ohfu0vZNL5wGUzaivn8g-f3xI8",
         "https://drive.google.com/uc?export=view&id=1m2UcTkRrWhnNx4QPcwCJqk7PGGQmPCbj",
@@ -3434,7 +3434,7 @@
     },
     {
       "name": "Renamon Silver",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=12l3lvTslwSj9ylAKl8G5OHd_eGNIp3BL",
         "https://drive.google.com/uc?export=view&id=1J4nu1tTbJJp-4a2LMkc9euDfOnhYKhl8",
@@ -3460,7 +3460,7 @@
     },
     {
       "name": "Renamon Rose",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1vjaORLt276zos-L5OZIeqAMZ0JMK8KZn",
         "https://drive.google.com/uc?export=view&id=1SaGF0itgwhndhTqeZheZ3JqeFo6LiWvc",
@@ -3486,7 +3486,7 @@
     },
     {
       "name": "Renamon Red",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dhfCBcfsU3CEl6HsvmjeQyvc-5i52nEi",
         "https://drive.google.com/uc?export=view&id=1_bvNrfedWSEOmpRTjgbmZuzunhXyS8bD",
@@ -3500,7 +3500,7 @@
     },
     {
       "name": "Psychemon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1zO4OC4x-anbS3XlQ-cQ5p4-NEztAtrNy",
         "https://drive.google.com/uc?export=view&id=1dhYH7zrvK3m0HaoUFqSGNsgrYQXoMGrD",
@@ -3526,7 +3526,7 @@
     },
     {
       "name": "Pulsemon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1eIHGB8MV_o3qqmyb7DDY71rVu9p2E6Xw",
         "https://drive.google.com/uc?export=view&id=1ATkH7-jt23Z4WstsAxXcWsJFFjD4WGn5",
@@ -3552,7 +3552,7 @@
     },
     {
       "name": "Pulsemon White",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ZewGXYW3-Mv_1nM-WUwacYuAkfXhCzz8",
         "https://drive.google.com/uc?export=view&id=1J0XHmyzegRnJND2vte8dbLH8O4LFukwn",
@@ -3578,7 +3578,7 @@
     },
     {
       "name": "Pulsemon Red",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1bmDG1ziDs8x5kVqbd0KaoBAvkRffM0E-",
         "https://drive.google.com/uc?export=view&id=1hT7akCRgrbmPxX9feqWYBqtACXoJ7fVY",
@@ -3604,7 +3604,7 @@
     },
     {
       "name": "Pulsemon Purple",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Yv7HcaV0LcSLUaWaff7BIT2qHtkMdY_m",
         "https://drive.google.com/uc?export=view&id=1PB_QDKvbt5Ol2-9NunNB6CvFjKj2q7Zm",
@@ -3630,7 +3630,7 @@
     },
     {
       "name": "Pulsemon Orange",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1IBss0h5dXhku_K4zJNAdl-mlt1_4n9gc",
         "https://drive.google.com/uc?export=view&id=1HMeGV5tU9XO2r-gB57wlDboEVU0UGEks",
@@ -3656,7 +3656,7 @@
     },
     {
       "name": "Pulsemon Green",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=15KVPkFEsa80Mr8h9LLUwkKGgDiW5IAxV",
         "https://drive.google.com/uc?export=view&id=1kw49c46UzUgBOgQDgUID3yaSCQaFNFKD",
@@ -3670,7 +3670,7 @@
     },
     {
       "name": "Mint Choc",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1XphafJzzN0DxWDFCJ2s87SW3neyeR1sK",
         "https://drive.google.com/uc?export=view&id=1DoNJMyu5Yk8FSUNxtMZozud-Vmqvob4i",
@@ -3696,7 +3696,7 @@
     },
     {
       "name": "Lopmon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1quVFNGLLZwMsn6LHm2-FfijISwNqdKsu",
         "https://drive.google.com/uc?export=view&id=10es7oK26coNXgaXGlQmkh8F5rwuYHG3P",
@@ -3722,7 +3722,7 @@
     },
     {
       "name": "Lopmon Terrier",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1NPBbaci-423e_lK6LVMCoi1EktOBBNQo",
         "https://drive.google.com/uc?export=view&id=1wyMYe9685TnGA6NwD9vOe4xn_Q3OS1E1",
@@ -3748,7 +3748,7 @@
     },
     {
       "name": "Lopmon Salted Caramel",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1tUAcgJn5xTCX4osXdL-0VXV8mhg9WyEK",
         "https://drive.google.com/uc?export=view&id=1qAKcGCLE7n8rXrf_e-d0GzR4HGP-xd8L",
@@ -3774,7 +3774,7 @@
     },
     {
       "name": "Lopmon Sakura Mochi",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QOQ5tezq1PbXLRj06xfuRoTT6Z0m0wR3",
         "https://drive.google.com/uc?export=view&id=1s7ZzF4gP8nXS3db-EP4JDQUXL1Pnsw1T",
@@ -3800,7 +3800,7 @@
     },
     {
       "name": "Lopmon Orange Sherbet",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1o_qNca01EPSCZ2tCyyLojzjOFhN8sT7b",
         "https://drive.google.com/uc?export=view&id=14GFmWWKWvXN1QREH9AXZGXzYfDyhfLaq",
@@ -3826,7 +3826,7 @@
     },
     {
       "name": "Lopmon Lime Lemon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QbnHRg-IOrzveCqeyfVfmdPdHKBsAUUd",
         "https://drive.google.com/uc?export=view&id=1R4jXaIuy1TcGV_1GhPwD5WlTmPA9CrMg",
@@ -3840,7 +3840,7 @@
     },
     {
       "name": "Gabumon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xmZQSuw8y8NcWR5izrc8YOCW2ewG871Z",
         "https://drive.google.com/uc?export=view&id=11sYvtxdUV3kI2e5Dnxvxdu9-VUiEVxcn",
@@ -3866,7 +3866,7 @@
     },
     {
       "name": "Gabumon Wild",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1U5AZ2syi3aooYseZznGHwdyH22ZjuVAg",
         "https://drive.google.com/uc?export=view&id=12T6Pv4uuh_mERExsDlgEUKHbRBw9gMNT",
@@ -3892,7 +3892,7 @@
     },
     {
       "name": "Gabumon Tropical",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1HEtOlgBLJfZWPl23Gkuetcq03uO8lKP_",
         "https://drive.google.com/uc?export=view&id=1MlBSwcqEUPfDXRvjvFNz0-r1KlTf047X",
@@ -3918,7 +3918,7 @@
     },
     {
       "name": "Gabumon Rumble",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1XDsDnQSfEmW9ZJygaHwZGwEAcHXSmYGX",
         "https://drive.google.com/uc?export=view&id=1O-u28y8RYDCC2mSl54rxDdTkmRz96_1P",
@@ -3944,7 +3944,7 @@
     },
     {
       "name": "Gabumon Minty",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1zNkUhAo8y19teepDmWHJqlA1svOfBqbz",
         "https://drive.google.com/uc?export=view&id=1IKjUNfBmNlv6bfwd6mN_EcgypBkCCvp4",
@@ -3970,7 +3970,7 @@
     },
     {
       "name": "Gabumon Frosty",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1CyLRFORYgXD2UZDnSGlCGDp8tMfjIDQX",
         "https://drive.google.com/uc?export=view&id=1gG_FKoGuDNIoMXl4zfcjdWQNrLDOTlAe",
@@ -3996,7 +3996,7 @@
     },
     {
       "name": "Gabumon Fang",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1TnW5DbwmgYgFeviPBs5yhpbkiVwATy_0",
         "https://drive.google.com/uc?export=view&id=1PkQiSdsX6yb6aDTFVjvJj_kOQnJwle2P",
@@ -4010,7 +4010,7 @@
     },
     {
       "name": "Commandramon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1CgclKrA4IJCPYmTYWEA4qVmRmVRI6mg2",
         "https://drive.google.com/uc?export=view&id=1_5ish34EkoYxX0ZImwXKKuqSGs21G4_-",
@@ -4036,7 +4036,7 @@
     },
     {
       "name": "Commandramon Volcanic",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1NeemH97_4qsZPL1AfPXfZ2CnrVwMSIV_",
         "https://drive.google.com/uc?export=view&id=1jgAy5XKcdHvOf3gQIPENMQkXy1nwt62s",
@@ -4062,7 +4062,7 @@
     },
     {
       "name": "Commandramon Tundra",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=15g4CugW4cu5XgNI4o45mXffCrmEpw-RP",
         "https://drive.google.com/uc?export=view&id=1R434CdHv8vFjKV5eKK-GVfDE3QgbXm6E",
@@ -4088,7 +4088,7 @@
     },
     {
       "name": "Commandramon Midnight",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=176yRZLfyxo24huXt-uR0qktP66ifpsa5",
         "https://drive.google.com/uc?export=view&id=16YeSTcBCayXbSxCg_9lyWoPhmbmcgBOB",
@@ -4114,7 +4114,7 @@
     },
     {
       "name": "Commandramon Forest",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=15327xFMhaOhuK4PH9fvnHitsnjYuxiI4",
         "https://drive.google.com/uc?export=view&id=12w79UAjTle6iOZVg57rGLWWQBUWU8CnW",
@@ -4140,7 +4140,7 @@
     },
     {
       "name": "Commandramon Desert",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Wm8xccy4_ITgzJZDkZ0rOJtgBk3feEvE",
         "https://drive.google.com/uc?export=view&id=1BbH6zNhytVlqfzowMhwZ5fx2rivRdIJQ",
@@ -4166,7 +4166,7 @@
     },
     {
       "name": "BushiAgumon",
-      "stage": "child",
+      "stage": "2",
       "images": [
         "https://drive.google.com/uc?export=view&id=1VVemsFZ8dmRnc3SIY7DedMC2rizStj2j",
         "https://drive.google.com/uc?export=view&id=1lcOesB3ZVLLtEt5z02MiIDcv8FLK5bUP",
@@ -4180,7 +4180,7 @@
     },
     {
       "name": "Yokomon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1s_YJ0Ur9c21hZAF6jntBT-tX7AopRTNa",
         "https://drive.google.com/uc?export=view&id=1vwntYXAnyuDaNwcrYHu8MFGKMlLQn6TV",
@@ -4206,7 +4206,7 @@
     },
     {
       "name": "Yokomon Rose",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1JsF2bG1ANYZpL1hb71eCAM5Qtz93oJb5",
         "https://drive.google.com/uc?export=view&id=1_MDlVzww8WIBwEWoA2CBj5jz91Lysa4t",
@@ -4232,7 +4232,7 @@
     },
     {
       "name": "Yokomon Pal",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1xJ7W4OFIxdeMAOMPOgxb3DGLUF_WcFm7",
         "https://drive.google.com/uc?export=view&id=1h1HDPtytCrNA9BindzYH7HDuq4bX61iE",
@@ -4258,7 +4258,7 @@
     },
     {
       "name": "Yokomon Orchid",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1eojiYMnd68B9Nj7i6JMFtYCVHOgFkXsu",
         "https://drive.google.com/uc?export=view&id=1HT7hNObwYZuyuuQ7rC7n71cguNMyfsmP",
@@ -4284,7 +4284,7 @@
     },
     {
       "name": "Yokomon Mandrake",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1tN5qt4WpaR-KswscDsmusjcv_kgSbdI8",
         "https://drive.google.com/uc?export=view&id=1oQf21onJteGzG0Mdvfc4RYEDc4b-s2mY",
@@ -4310,7 +4310,7 @@
     },
     {
       "name": "Yokomon Flora",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QCo308OxmKD1VlGW6ffrG3cvyxTKsqvj",
         "https://drive.google.com/uc?export=view&id=1bssX9BQtoJ7gPcxzM2T4NkSh2e2mw1Up",
@@ -4336,7 +4336,7 @@
     },
     {
       "name": "Yaamon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Zlx-I0pUSORAIwarf86HjKq9psA1l6y3",
         "https://drive.google.com/uc?export=view&id=1xANwOowK9DeuuktWg59UCC70pJ8Ow_D5",
@@ -4350,7 +4350,7 @@
     },
     {
       "name": "Poromon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=13r-2hMFlN-fBIAuKDE3aELaYTSYvDUE6",
         "https://drive.google.com/uc?export=view&id=1N3M6uCf1BDfzDpBfzmXDJyrU6KoKR02u",
@@ -4376,7 +4376,7 @@
     },
     {
       "name": "Motimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=18E5iN4WzS3SB5QmQ5zHbqavINv2_tptI",
         "https://drive.google.com/uc?export=view&id=1YkNk3QreEnlNOgWWQweV-5Aboc7Ulku7",
@@ -4402,7 +4402,7 @@
     },
     {
       "name": "Missimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1uPzggZ0eRa-G7g_CQw0umNlaKoN-7IbR",
         "https://drive.google.com/uc?export=view&id=11zM5D144k9McDkOkvLYAqeb7DdldVe0W",
@@ -4428,7 +4428,7 @@
     },
     {
       "name": "Minomon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1Ud0fyMQDY53a57_8T8o8upbiW8Xm7j0Q",
         "https://drive.google.com/uc?export=view&id=1ZzA8dolGkFN0zvEuqkAZSkUPPkY6rWuI",
@@ -4454,7 +4454,7 @@
     },
     {
       "name": "Minomon Autumn",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1PHLIyiPzDR-kDajApwewZ47LSoTczqVU",
         "https://drive.google.com/uc?export=view&id=1T_W_A-ycHKsjWWcCVXTP5ErLxEDNgPfo",
@@ -4480,7 +4480,7 @@
     },
     {
       "name": "Koromon Citrus",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1WJl_Q-MZzSMg5wCJ7cR02ZMLrZ7-SP6r",
         "https://drive.google.com/uc?export=view&id=1BTMQ0g5_SRypG4F2IK_z2LFQW9QnzmV3",
@@ -4506,7 +4506,7 @@
     },
     {
       "name": "Koromon Mint",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1VTvpTmh23Mh4YZPbIoRIDWehVhfM9gxX",
         "https://drive.google.com/uc?export=view&id=1XJJJFyLe-wXad_27MF4IsffqEEwib-vt",
@@ -4532,7 +4532,7 @@
     },
     {
       "name": "Koromon Yukimi",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dlb45_XpNs5MI0EwJxFKFoywEsonsbSR",
         "https://drive.google.com/uc?export=view&id=1BPsaOHXqr1UWuPhecyS10P4cFzU9NJBw",
@@ -4558,7 +4558,7 @@
     },
     {
       "name": "Koromon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1g8pkwi8nDN_O-lbhGzXFSs224VivgONa",
         "https://drive.google.com/uc?export=view&id=1P0cjr935aDLRN7h-FTXe7b7ziTJBgk-q",
@@ -4584,7 +4584,7 @@
     },
     {
       "name": "Kyokyomon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1E8F-T2-3UJ859b8vfyyNEoKgh0FDXjiI",
         "https://drive.google.com/uc?export=view&id=1SUKXYSsww0GySEmaJ9_L9_KkyQRPZ87E",
@@ -4610,7 +4610,7 @@
     },
     {
       "name": "Kapurimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1pqmq3ubNTkI2-YQ5nV_FOJcCX5rwT3Ho",
         "https://drive.google.com/uc?export=view&id=1thEWSGUsUx2WSSJpc0Smb5Fmn21-p7Ip",
@@ -4636,7 +4636,7 @@
     },
     {
       "name": "Kapurimon Peach",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1T6frIMPVNJ63yErbcfyamrFcnfiN9eeq",
         "https://drive.google.com/uc?export=view&id=10PcUHHO2zK-fcSvih5Tgv5oqCSjoc7rb",
@@ -4650,7 +4650,7 @@
     },
     {
       "name": "Gurimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1JwrYX8c21PMGgusUM-l65RtEjaerbdQr",
         "https://drive.google.com/uc?export=view&id=1rMWxKX9ek-i3ygF08oRC9mu8E3dkOiEH",
@@ -4676,7 +4676,7 @@
     },
     {
       "name": "Dorimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1SAE9z5loPAOZeLOUKsLyjr4X8m2UalBx",
         "https://drive.google.com/uc?export=view&id=1khA1oyI-nYvrAZUzLXWAv5bBpApSCK5d",
@@ -4702,7 +4702,7 @@
     },
     {
       "name": "Dorimon Red",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1osp1eAFARryEx-HEMmbSonGQK5i9uvuc",
         "https://drive.google.com/uc?export=view&id=1CfA7L6HDuZrQ8zluzGgCQKLvWxgihTjd",
@@ -4728,7 +4728,7 @@
     },
     {
       "name": "Dorimon Blue",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1QNbTG6H-gvTH9vAUm-poCat-mjaVyfhY",
         "https://drive.google.com/uc?export=view&id=1jYgSO0meIg7QSiRxuNIOKozv1Y_jPNYf",
@@ -4754,7 +4754,7 @@
     },
     {
       "name": "Dorimon Black",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=15D3gGePj4OBi5c-nMi3rYPpYpH2zAnSA",
         "https://drive.google.com/uc?export=view&id=1KJKGSFGbEWgXgHuLRx993gP4pMD7Cyru",
@@ -4780,7 +4780,7 @@
     },
     {
       "name": "Demiveemon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dqXgl_pthVIF65MPOVijSET29_kbF8Zp",
         "https://drive.google.com/uc?export=view&id=1YJHMA8URgQVphy2GsJ8wbsDNnMT0CvuF",
@@ -4806,7 +4806,7 @@
     },
     {
       "name": "Bibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1DUHjrJ3lQkaPdasW_PtiImtYUJ9LsSri",
         "https://drive.google.com/uc?export=view&id=1QIfos-VDhjynZrvePQj6GCrFvblFNHbo",
@@ -4832,7 +4832,7 @@
     },
     {
       "name": "Bebydomon Ashe Blue",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1OJ8AQt9xBf5sDC8MYaRKcROxAOjzLvZA",
         "https://drive.google.com/uc?export=view&id=1Kw2rGuqbFc1VuFN5AAAyjmfgmt0-c13F",
@@ -4858,7 +4858,7 @@
     },
     {
       "name": "Bebydomon",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=14R8BsZedOdKBUnQGZonkohnLPLP8Fiym",
         "https://drive.google.com/uc?export=view&id=1RdbbF9_TMN62Haerm7QaEk-2REmr2pg8",
@@ -4884,7 +4884,7 @@
     },
     {
       "name": "Bebydomon Red",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1dm0LiwLNyK6FOEFFNrLW0XFNTlXnFHgk",
         "https://drive.google.com/uc?export=view&id=1KNoT6PH9uQ2XQ2IbY90HnuJ0_eDbLsjo",
@@ -4910,7 +4910,7 @@
     },
     {
       "name": "Bebydomon Purple",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1p2Wx2d1bbWirLsdM5tqXjiGZiBTRZgcH",
         "https://drive.google.com/uc?export=view&id=11T-0AjM4XCNRbH-_A7NdnuTgxIiOKtIC",
@@ -4936,7 +4936,7 @@
     },
     {
       "name": "Bebydomon Gold",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1ygeKCDwsZ0sRSQFWrGRm7Cr-lmYhajc4",
         "https://drive.google.com/uc?export=view&id=1u_RtjWM9nanL-CWuO9Ve8Y1Hv2PQ25Eh",
@@ -4962,7 +4962,7 @@
     },
     {
       "name": "Bebydomon Blue",
-      "stage": "baby_2",
+      "stage": "1",
       "images": [
         "https://drive.google.com/uc?export=view&id=1AUbFyw29smmTQ7WRwwzrnGE9LvTkLbhQ",
         "https://drive.google.com/uc?export=view&id=1TBlJnGMb7JgNDe7A0j8AbQGAZh4m6sYr",
@@ -4976,7 +4976,7 @@
     },
     {
       "name": "Skull Satamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5002,7 +5002,7 @@
     },
     {
       "name": "Sakuyamon X",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5028,7 +5028,7 @@
     },
     {
       "name": "Garuru Metal",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5054,7 +5054,7 @@
     },
     {
       "name": "Beelzebumon: Blast Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5080,7 +5080,7 @@
     },
     {
       "name": "Betamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5106,7 +5106,7 @@
     },
     {
       "name": "Holydramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5132,7 +5132,7 @@
     },
     {
       "name": "Pagumon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5158,7 +5158,7 @@
     },
     {
       "name": "Seadramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5184,7 +5184,7 @@
     },
     {
       "name": "Jewelbeemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5210,7 +5210,7 @@
     },
     {
       "name": "Shakkoumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5236,7 +5236,7 @@
     },
     {
       "name": "Asuramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5262,7 +5262,7 @@
     },
     {
       "name": "Arkhai Angemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5288,7 +5288,7 @@
     },
     {
       "name": "Dracumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5314,7 +5314,7 @@
     },
     {
       "name": "Andromon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5340,7 +5340,7 @@
     },
     {
       "name": "Leafmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5366,7 +5366,7 @@
     },
     {
       "name": "Boutmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5392,7 +5392,7 @@
     },
     {
       "name": "Giromon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5418,7 +5418,7 @@
     },
     {
       "name": "Geo Greymon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5444,7 +5444,7 @@
     },
     {
       "name": "Skull Greymon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5470,7 +5470,7 @@
     },
     {
       "name": "Ballistamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5496,7 +5496,7 @@
     },
     {
       "name": "Luxmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5522,7 +5522,7 @@
     },
     {
       "name": "Pulsemon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5548,7 +5548,7 @@
     },
     {
       "name": "Rhinomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5574,7 +5574,7 @@
     },
     {
       "name": "Alphamon: Ouryuken",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -5600,7 +5600,7 @@
     },
     {
       "name": "Musyamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5626,7 +5626,7 @@
     },
     {
       "name": "Ancient Sphinxmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5652,7 +5652,7 @@
     },
     {
       "name": "Rafflesimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5678,7 +5678,7 @@
     },
     {
       "name": "Nanomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5704,7 +5704,7 @@
     },
     {
       "name": "Numemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5730,7 +5730,7 @@
     },
     {
       "name": "Pyonmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5756,7 +5756,7 @@
     },
     {
       "name": "DORUgamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5782,7 +5782,7 @@
     },
     {
       "name": "Lavogaritamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5808,7 +5808,7 @@
     },
     {
       "name": "Gorimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5834,7 +5834,7 @@
     },
     {
       "name": "Proximamon",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5860,7 +5860,7 @@
     },
     {
       "name": "Mermaimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5886,7 +5886,7 @@
     },
     {
       "name": "Fufumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5912,7 +5912,7 @@
     },
     {
       "name": "Helloogarmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -5938,7 +5938,7 @@
     },
     {
       "name": "Koromon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -5964,7 +5964,7 @@
     },
     {
       "name": "Gabumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -5990,7 +5990,7 @@
     },
     {
       "name": "Justimon: Critical Arm",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6016,7 +6016,7 @@
     },
     {
       "name": "Sakuyamon: Miko Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6042,7 +6042,7 @@
     },
     {
       "name": "Dianamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6068,7 +6068,7 @@
     },
     {
       "name": "Boutmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6094,7 +6094,7 @@
     },
     {
       "name": "Fairimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6120,7 +6120,7 @@
     },
     {
       "name": "Marin Angemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6146,7 +6146,7 @@
     },
     {
       "name": "Ouryumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6172,7 +6172,7 @@
     },
     {
       "name": "Mercurymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6198,7 +6198,7 @@
     },
     {
       "name": "Shine Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6224,7 +6224,7 @@
     },
     {
       "name": "Cyberdramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6250,7 +6250,7 @@
     },
     {
       "name": "Publimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6276,7 +6276,7 @@
     },
     {
       "name": "Snow Goblimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6302,7 +6302,7 @@
     },
     {
       "name": "Leafmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6328,7 +6328,7 @@
     },
     {
       "name": "Arcturusmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6354,7 +6354,7 @@
     },
     {
       "name": "Drimogemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6380,7 +6380,7 @@
     },
     {
       "name": "Commandramon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6406,7 +6406,7 @@
     },
     {
       "name": "Gokimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6432,7 +6432,7 @@
     },
     {
       "name": "Cannondramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6458,7 +6458,7 @@
     },
     {
       "name": "Sephirothmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6484,7 +6484,7 @@
     },
     {
       "name": "Zubamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6510,7 +6510,7 @@
     },
     {
       "name": "Vritramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6536,7 +6536,7 @@
     },
     {
       "name": "Espimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6562,7 +6562,7 @@
     },
     {
       "name": "Filmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6588,7 +6588,7 @@
     },
     {
       "name": "Pucchiemon (Green)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6614,7 +6614,7 @@
     },
     {
       "name": "Lekismon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6640,7 +6640,7 @@
     },
     {
       "name": "Peti Meramon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6666,7 +6666,7 @@
     },
     {
       "name": "Wizarmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6692,7 +6692,7 @@
     },
     {
       "name": "Shoutmon X7",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6718,7 +6718,7 @@
     },
     {
       "name": "Zanmetsumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6744,7 +6744,7 @@
     },
     {
       "name": "Neo Devimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6770,7 +6770,7 @@
     },
     {
       "name": "Victory Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -6796,7 +6796,7 @@
     },
     {
       "name": "Doumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6822,7 +6822,7 @@
     },
     {
       "name": "Petaldramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6848,7 +6848,7 @@
     },
     {
       "name": "Gabumon (Black)",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6874,7 +6874,7 @@
     },
     {
       "name": "Manbomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6900,7 +6900,7 @@
     },
     {
       "name": "Deathmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -6926,7 +6926,7 @@
     },
     {
       "name": "Black King Numemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -6952,7 +6952,7 @@
     },
     {
       "name": "Pyonmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -6978,7 +6978,7 @@
     },
     {
       "name": "Paledramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7004,7 +7004,7 @@
     },
     {
       "name": "Grand Locomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7030,7 +7030,7 @@
     },
     {
       "name": "DORUgoramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7056,7 +7056,7 @@
     },
     {
       "name": "Hydramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7082,7 +7082,7 @@
     },
     {
       "name": "Andiramon (Deva)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7108,7 +7108,7 @@
     },
     {
       "name": "Octmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7134,7 +7134,7 @@
     },
     {
       "name": "Pulsemon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7160,7 +7160,7 @@
     },
     {
       "name": "Gizamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7186,7 +7186,7 @@
     },
     {
       "name": "Koemon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7212,7 +7212,7 @@
     },
     {
       "name": "Gogmamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7238,7 +7238,7 @@
     },
     {
       "name": "Black Tailmon Uver.",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7264,7 +7264,7 @@
     },
     {
       "name": "Popomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7290,7 +7290,7 @@
     },
     {
       "name": "Morphomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7316,7 +7316,7 @@
     },
     {
       "name": "Bibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7342,7 +7342,7 @@
     },
     {
       "name": "Blitz Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7368,7 +7368,7 @@
     },
     {
       "name": "Minomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7394,7 +7394,7 @@
     },
     {
       "name": "Kongoumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7420,7 +7420,7 @@
     },
     {
       "name": "Tentomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7446,7 +7446,7 @@
     },
     {
       "name": "Sangloupmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7472,7 +7472,7 @@
     },
     {
       "name": "Vulturemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7498,7 +7498,7 @@
     },
     {
       "name": "Mojyamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7524,7 +7524,7 @@
     },
     {
       "name": "Submarimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7550,7 +7550,7 @@
     },
     {
       "name": "Super Starmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7576,7 +7576,7 @@
     },
     {
       "name": "King Etemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7602,7 +7602,7 @@
     },
     {
       "name": "Majiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7628,7 +7628,7 @@
     },
     {
       "name": "Magna Garurumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7654,7 +7654,7 @@
     },
     {
       "name": "Pokomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7680,7 +7680,7 @@
     },
     {
       "name": "Metal Garurumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7706,7 +7706,7 @@
     },
     {
       "name": "Gundramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7732,7 +7732,7 @@
     },
     {
       "name": "Hawkmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7758,7 +7758,7 @@
     },
     {
       "name": "Toropiamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7784,7 +7784,7 @@
     },
     {
       "name": "Punimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7810,7 +7810,7 @@
     },
     {
       "name": "Anubimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7836,7 +7836,7 @@
     },
     {
       "name": "Peckmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7862,7 +7862,7 @@
     },
     {
       "name": "Gaogamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -7888,7 +7888,7 @@
     },
     {
       "name": "Gryzmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7914,7 +7914,7 @@
     },
     {
       "name": "Pulsemon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -7940,7 +7940,7 @@
     },
     {
       "name": "Beelzebumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -7966,7 +7966,7 @@
     },
     {
       "name": "Nyokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -7992,7 +7992,7 @@
     },
     {
       "name": "Kiimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8018,7 +8018,7 @@
     },
     {
       "name": "Medieval Dukemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8044,7 +8044,7 @@
     },
     {
       "name": "Raremon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8070,7 +8070,7 @@
     },
     {
       "name": "Sirenmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8096,7 +8096,7 @@
     },
     {
       "name": "Aldamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8122,7 +8122,7 @@
     },
     {
       "name": "Kabuterimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8148,7 +8148,7 @@
     },
     {
       "name": "Relemon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8174,7 +8174,7 @@
     },
     {
       "name": "Mammon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8200,7 +8200,7 @@
     },
     {
       "name": "Divemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8226,7 +8226,7 @@
     },
     {
       "name": "Bosamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8252,7 +8252,7 @@
     },
     {
       "name": "Garurumon (Black)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8278,7 +8278,7 @@
     },
     {
       "name": "Hiyarimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8304,7 +8304,7 @@
     },
     {
       "name": "Etemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8330,7 +8330,7 @@
     },
     {
       "name": "Seadramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8356,7 +8356,7 @@
     },
     {
       "name": "Murmukusmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8382,7 +8382,7 @@
     },
     {
       "name": "Wanyamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8408,7 +8408,7 @@
     },
     {
       "name": "Gigasmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8434,7 +8434,7 @@
     },
     {
       "name": "Ginryumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8460,7 +8460,7 @@
     },
     {
       "name": "Lavorvomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8486,7 +8486,7 @@
     },
     {
       "name": "Cotsucomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8512,7 +8512,7 @@
     },
     {
       "name": "Cannonbeemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8538,7 +8538,7 @@
     },
     {
       "name": "Sunarizamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8564,7 +8564,7 @@
     },
     {
       "name": "Greymon (Blue)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8590,7 +8590,7 @@
     },
     {
       "name": "Valvemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8616,7 +8616,7 @@
     },
     {
       "name": "Omegamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8642,7 +8642,7 @@
     },
     {
       "name": "Breakdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8668,7 +8668,7 @@
     },
     {
       "name": "Yaamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8694,7 +8694,7 @@
     },
     {
       "name": "Big Mamemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -8720,7 +8720,7 @@
     },
     {
       "name": "Aegisdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8746,7 +8746,7 @@
     },
     {
       "name": "Dominimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8772,7 +8772,7 @@
     },
     {
       "name": "Apollomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8798,7 +8798,7 @@
     },
     {
       "name": "Kazuchimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8824,7 +8824,7 @@
     },
     {
       "name": "Ravmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8850,7 +8850,7 @@
     },
     {
       "name": "Holy Angemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8876,7 +8876,7 @@
     },
     {
       "name": "Holsmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8902,7 +8902,7 @@
     },
     {
       "name": "Snatchmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -8928,7 +8928,7 @@
     },
     {
       "name": "Phascomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -8954,7 +8954,7 @@
     },
     {
       "name": "Tailmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -8980,7 +8980,7 @@
     },
     {
       "name": "Durandamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9006,7 +9006,7 @@
     },
     {
       "name": "Jet Silphymon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9032,7 +9032,7 @@
     },
     {
       "name": "Piranimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9058,7 +9058,7 @@
     },
     {
       "name": "Panjyamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9084,7 +9084,7 @@
     },
     {
       "name": "Megalo Growmon (Orange)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -9110,7 +9110,7 @@
     },
     {
       "name": "Deltamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9136,7 +9136,7 @@
     },
     {
       "name": "Angoramon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9162,7 +9162,7 @@
     },
     {
       "name": "Minomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9188,7 +9188,7 @@
     },
     {
       "name": "Bibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9214,7 +9214,7 @@
     },
     {
       "name": "Gurimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9240,7 +9240,7 @@
     },
     {
       "name": "Kinkakumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9266,7 +9266,7 @@
     },
     {
       "name": "Regalecusmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9292,7 +9292,7 @@
     },
     {
       "name": "Nefertimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9318,7 +9318,7 @@
     },
     {
       "name": "Deathmon (Black)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -9344,7 +9344,7 @@
     },
     {
       "name": "Ancient Garurumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -9370,7 +9370,7 @@
     },
     {
       "name": "Were Garurumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9396,7 +9396,7 @@
     },
     {
       "name": "Wanyamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9422,7 +9422,7 @@
     },
     {
       "name": "Raptordramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9448,7 +9448,7 @@
     },
     {
       "name": "Impmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9474,7 +9474,7 @@
     },
     {
       "name": "Vamdemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9500,7 +9500,7 @@
     },
     {
       "name": "Hisyaryumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9526,7 +9526,7 @@
     },
     {
       "name": "Yukimibotamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9552,7 +9552,7 @@
     },
     {
       "name": "Andiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9578,7 +9578,7 @@
     },
     {
       "name": "Bosamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9604,7 +9604,7 @@
     },
     {
       "name": "Heavy Leomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9630,7 +9630,7 @@
     },
     {
       "name": "Ultimate Brachiomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -9656,7 +9656,7 @@
     },
     {
       "name": "Tyranomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -9682,7 +9682,7 @@
     },
     {
       "name": "Dark Tyranomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9708,7 +9708,7 @@
     },
     {
       "name": "Omega Knight",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9734,7 +9734,7 @@
     },
     {
       "name": "Metallife Kuwagamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9760,7 +9760,7 @@
     },
     {
       "name": "Peacockmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9786,7 +9786,7 @@
     },
     {
       "name": "Devimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9812,7 +9812,7 @@
     },
     {
       "name": "Poromon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9838,7 +9838,7 @@
     },
     {
       "name": "Valkyrimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9864,7 +9864,7 @@
     },
     {
       "name": "Bubbmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9890,7 +9890,7 @@
     },
     {
       "name": "Agumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -9916,7 +9916,7 @@
     },
     {
       "name": "Parasaurmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9942,7 +9942,7 @@
     },
     {
       "name": "Petitmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -9968,7 +9968,7 @@
     },
     {
       "name": "Zeke Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -9994,7 +9994,7 @@
     },
     {
       "name": "Mamemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10020,7 +10020,7 @@
     },
     {
       "name": "Dinobeemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10046,7 +10046,7 @@
     },
     {
       "name": "Hexeblaumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10072,7 +10072,7 @@
     },
     {
       "name": "Damemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10098,7 +10098,7 @@
     },
     {
       "name": "Bolgmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10124,7 +10124,7 @@
     },
     {
       "name": "Leomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10150,7 +10150,7 @@
     },
     {
       "name": "Dokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10176,7 +10176,7 @@
     },
     {
       "name": "Brigadramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10202,7 +10202,7 @@
     },
     {
       "name": "Puyoyomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10228,7 +10228,7 @@
     },
     {
       "name": "Kaiser Leomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10254,7 +10254,7 @@
     },
     {
       "name": "Wingdramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10280,7 +10280,7 @@
     },
     {
       "name": "Yukimibotamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10296,7 +10296,7 @@
     },
     {
       "name": "Plutomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10322,7 +10322,7 @@
     },
     {
       "name": "Hagurumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10348,7 +10348,7 @@
     },
     {
       "name": "Were Garurumon: Saggitarius Mode",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10374,7 +10374,7 @@
     },
     {
       "name": "Agumon (2006)",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10400,7 +10400,7 @@
     },
     {
       "name": "Chicomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10426,7 +10426,7 @@
     },
     {
       "name": "Lilimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10452,7 +10452,7 @@
     },
     {
       "name": "Shoutmon DX",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10478,7 +10478,7 @@
     },
     {
       "name": "Shurimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10504,7 +10504,7 @@
     },
     {
       "name": "Digmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10530,7 +10530,7 @@
     },
     {
       "name": "Chamblemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10556,7 +10556,7 @@
     },
     {
       "name": "Cyberdramon (2010)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10582,7 +10582,7 @@
     },
     {
       "name": "Triceramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10608,7 +10608,7 @@
     },
     {
       "name": "Sangomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10634,7 +10634,7 @@
     },
     {
       "name": "Kazuchimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10660,7 +10660,7 @@
     },
     {
       "name": "Missimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10686,7 +10686,7 @@
     },
     {
       "name": "Wendimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10712,7 +10712,7 @@
     },
     {
       "name": "Daipenmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10738,7 +10738,7 @@
     },
     {
       "name": "Raijinmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10764,7 +10764,7 @@
     },
     {
       "name": "Garudamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10790,7 +10790,7 @@
     },
     {
       "name": "Rosemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10816,7 +10816,7 @@
     },
     {
       "name": "Chibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -10842,7 +10842,7 @@
     },
     {
       "name": "Examon",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10868,7 +10868,7 @@
     },
     {
       "name": "Terriermon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10894,7 +10894,7 @@
     },
     {
       "name": "Xiangpengmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -10920,7 +10920,7 @@
     },
     {
       "name": "Kyubimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -10946,7 +10946,7 @@
     },
     {
       "name": "Ogremon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10972,7 +10972,7 @@
     },
     {
       "name": "Rust Tyranomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -10998,7 +10998,7 @@
     },
     {
       "name": "Dokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11024,7 +11024,7 @@
     },
     {
       "name": "Grace Novamon",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11050,7 +11050,7 @@
     },
     {
       "name": "Puyoyomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11076,7 +11076,7 @@
     },
     {
       "name": "Airdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11102,7 +11102,7 @@
     },
     {
       "name": "Caprimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11128,7 +11128,7 @@
     },
     {
       "name": "Death-X-Doruguremon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11154,7 +11154,7 @@
     },
     {
       "name": "Karatsuki Numemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11180,7 +11180,7 @@
     },
     {
       "name": "Snimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11206,7 +11206,7 @@
     },
     {
       "name": "Galgomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11232,7 +11232,7 @@
     },
     {
       "name": "Togemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -11258,7 +11258,7 @@
     },
     {
       "name": "Gesomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11284,7 +11284,7 @@
     },
     {
       "name": "Ankylomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11310,7 +11310,7 @@
     },
     {
       "name": "Flamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11336,7 +11336,7 @@
     },
     {
       "name": "Sagittarimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11362,7 +11362,7 @@
     },
     {
       "name": "Zanbamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11388,7 +11388,7 @@
     },
     {
       "name": "Shadramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11414,7 +11414,7 @@
     },
     {
       "name": "Ice Devimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11440,7 +11440,7 @@
     },
     {
       "name": "Numemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11466,7 +11466,7 @@
     },
     {
       "name": "Chibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11492,7 +11492,7 @@
     },
     {
       "name": "Atlur Kabuterimon (Red)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11518,7 +11518,7 @@
     },
     {
       "name": "Arachnemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11544,7 +11544,7 @@
     },
     {
       "name": "Birdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11570,7 +11570,7 @@
     },
     {
       "name": "Dorimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11596,7 +11596,7 @@
     },
     {
       "name": "Jaeger Dorulumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11622,7 +11622,7 @@
     },
     {
       "name": "Funbeemon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11648,7 +11648,7 @@
     },
     {
       "name": "Kazuchimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -11674,7 +11674,7 @@
     },
     {
       "name": "Climbmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11700,7 +11700,7 @@
     },
     {
       "name": "Sealsdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11726,7 +11726,7 @@
     },
     {
       "name": "Pegasmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11752,7 +11752,7 @@
     },
     {
       "name": "Botamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11778,7 +11778,7 @@
     },
     {
       "name": "Amphimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -11804,7 +11804,7 @@
     },
     {
       "name": "Goromon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11830,7 +11830,7 @@
     },
     {
       "name": "Garummon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11856,7 +11856,7 @@
     },
     {
       "name": "Shoutmon X4",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -11882,7 +11882,7 @@
     },
     {
       "name": "Rokusho",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11908,7 +11908,7 @@
     },
     {
       "name": "Chicomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11934,7 +11934,7 @@
     },
     {
       "name": "Lighdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -11960,7 +11960,7 @@
     },
     {
       "name": "Grandis Kuwagamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -11986,7 +11986,7 @@
     },
     {
       "name": "Grand Dracumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12012,7 +12012,7 @@
     },
     {
       "name": "Bommon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -12038,7 +12038,7 @@
     },
     {
       "name": "Regulusmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12064,7 +12064,7 @@
     },
     {
       "name": "Xiquemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12090,7 +12090,7 @@
     },
     {
       "name": "Stiffilmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12116,7 +12116,7 @@
     },
     {
       "name": "Tyilinmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12142,7 +12142,7 @@
     },
     {
       "name": "Zassoumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12168,7 +12168,7 @@
     },
     {
       "name": "Volcanicdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12194,7 +12194,7 @@
     },
     {
       "name": "Savior Hackmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12220,7 +12220,7 @@
     },
     {
       "name": "Boutmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12246,7 +12246,7 @@
     },
     {
       "name": "Death-X-Dorugamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12272,7 +12272,7 @@
     },
     {
       "name": "Liamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12298,7 +12298,7 @@
     },
     {
       "name": "Grappu Leomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12324,7 +12324,7 @@
     },
     {
       "name": "Metal Garurumon (Black)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12350,7 +12350,7 @@
     },
     {
       "name": "Blitzmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -12376,7 +12376,7 @@
     },
     {
       "name": "Shin Monzaemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12402,7 +12402,7 @@
     },
     {
       "name": "Pandamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12428,7 +12428,7 @@
     },
     {
       "name": "Grademon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12454,7 +12454,7 @@
     },
     {
       "name": "Shin Monzaemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12480,7 +12480,7 @@
     },
     {
       "name": "Waru Monzaemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12506,7 +12506,7 @@
     },
     {
       "name": "Raihimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -12532,7 +12532,7 @@
     },
     {
       "name": "Astamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12558,7 +12558,7 @@
     },
     {
       "name": "Dark Super Starmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12584,7 +12584,7 @@
     },
     {
       "name": "Hudiemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -12610,7 +12610,7 @@
     },
     {
       "name": "Hangyomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12636,7 +12636,7 @@
     },
     {
       "name": "Ancient Megatheriumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12662,7 +12662,7 @@
     },
     {
       "name": "Wormmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -12688,7 +12688,7 @@
     },
     {
       "name": "Dukemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12714,7 +12714,7 @@
     },
     {
       "name": "Bryweludramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12740,7 +12740,7 @@
     },
     {
       "name": "Bulkmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12766,7 +12766,7 @@
     },
     {
       "name": "Kodokugumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12792,7 +12792,7 @@
     },
     {
       "name": "Ancient Volcamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12818,7 +12818,7 @@
     },
     {
       "name": "Hippogriffomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12844,7 +12844,7 @@
     },
     {
       "name": "Makuramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12870,7 +12870,7 @@
     },
     {
       "name": "Golemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -12896,7 +12896,7 @@
     },
     {
       "name": "Taomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -12922,7 +12922,7 @@
     },
     {
       "name": "Strikedramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12948,7 +12948,7 @@
     },
     {
       "name": "Gumdramon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -12974,7 +12974,7 @@
     },
     {
       "name": "Zerimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -13000,7 +13000,7 @@
     },
     {
       "name": "Pumpmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13026,7 +13026,7 @@
     },
     {
       "name": "Ajatarmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13052,7 +13052,7 @@
     },
     {
       "name": "Turuiemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13078,7 +13078,7 @@
     },
     {
       "name": "Crescemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13104,7 +13104,7 @@
     },
     {
       "name": "Falcomon (2006)",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13130,7 +13130,7 @@
     },
     {
       "name": "Magna Kidmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13156,7 +13156,7 @@
     },
     {
       "name": "Frozomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13182,7 +13182,7 @@
     },
     {
       "name": "Okuwamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13208,7 +13208,7 @@
     },
     {
       "name": "Seraphimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13234,7 +13234,7 @@
     },
     {
       "name": "Shine Greymon: Burst Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13260,7 +13260,7 @@
     },
     {
       "name": "Botamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -13286,7 +13286,7 @@
     },
     {
       "name": "Bulkmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13312,7 +13312,7 @@
     },
     {
       "name": "Pururumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -13338,7 +13338,7 @@
     },
     {
       "name": "Scorpiomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13364,7 +13364,7 @@
     },
     {
       "name": "Coredramon (Blue)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13390,7 +13390,7 @@
     },
     {
       "name": "Lucemon: Falldown Mode",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13416,7 +13416,7 @@
     },
     {
       "name": "Tyrant Kabuterimon",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13442,7 +13442,7 @@
     },
     {
       "name": "Vikaralamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13468,7 +13468,7 @@
     },
     {
       "name": "Calamaramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -13494,7 +13494,7 @@
     },
     {
       "name": "Omedamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13520,7 +13520,7 @@
     },
     {
       "name": "Fros Velgrmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13546,7 +13546,7 @@
     },
     {
       "name": "Metal Greymon (Vaccine)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13572,7 +13572,7 @@
     },
     {
       "name": "Dogmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13598,7 +13598,7 @@
     },
     {
       "name": "Vegimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13624,7 +13624,7 @@
     },
     {
       "name": "Mad Leomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13650,7 +13650,7 @@
     },
     {
       "name": "Kokabuterimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13676,7 +13676,7 @@
     },
     {
       "name": "Siriusmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13702,7 +13702,7 @@
     },
     {
       "name": "Sinduramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13728,7 +13728,7 @@
     },
     {
       "name": "Herakle Kabuterimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13754,7 +13754,7 @@
     },
     {
       "name": "Wolfmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -13780,7 +13780,7 @@
     },
     {
       "name": "Zubaeagermon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13806,7 +13806,7 @@
     },
     {
       "name": "Vermillimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13832,7 +13832,7 @@
     },
     {
       "name": "Atlur Ballistamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13858,7 +13858,7 @@
     },
     {
       "name": "Yatagaramon (2006)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13884,7 +13884,7 @@
     },
     {
       "name": "Noble Pumpmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13910,7 +13910,7 @@
     },
     {
       "name": "Aero V-dramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -13936,7 +13936,7 @@
     },
     {
       "name": "Shoutmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -13962,7 +13962,7 @@
     },
     {
       "name": "Raidenmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -13988,7 +13988,7 @@
     },
     {
       "name": "Dinotigermon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14014,7 +14014,7 @@
     },
     {
       "name": "Tesla Jellymon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14040,7 +14040,7 @@
     },
     {
       "name": "Blitz Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14066,7 +14066,7 @@
     },
     {
       "name": "Belphemon: Rage Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14092,7 +14092,7 @@
     },
     {
       "name": "Hover Espimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14118,7 +14118,7 @@
     },
     {
       "name": "Brachiomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14144,7 +14144,7 @@
     },
     {
       "name": "Blossomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14170,7 +14170,7 @@
     },
     {
       "name": "Rapidmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14196,7 +14196,7 @@
     },
     {
       "name": "Tinkermon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14222,7 +14222,7 @@
     },
     {
       "name": "Megadramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14248,7 +14248,7 @@
     },
     {
       "name": "Marsmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14274,7 +14274,7 @@
     },
     {
       "name": "Ulforce V-dramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14300,7 +14300,7 @@
     },
     {
       "name": "Pyocomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14326,7 +14326,7 @@
     },
     {
       "name": "Mochimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14352,7 +14352,7 @@
     },
     {
       "name": "Griffomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14378,7 +14378,7 @@
     },
     {
       "name": "Bombermon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14404,7 +14404,7 @@
     },
     {
       "name": "Arresterdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14430,7 +14430,7 @@
     },
     {
       "name": "Tsunomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14456,7 +14456,7 @@
     },
     {
       "name": "Beelzebumon (2010)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14482,7 +14482,7 @@
     },
     {
       "name": "Medal",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14508,7 +14508,7 @@
     },
     {
       "name": "Monochromon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14534,7 +14534,7 @@
     },
     {
       "name": "Gottsumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14560,7 +14560,7 @@
     },
     {
       "name": "Gulus Gammamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14586,7 +14586,7 @@
     },
     {
       "name": "Gaioumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14612,7 +14612,7 @@
     },
     {
       "name": "Tyranomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14638,7 +14638,7 @@
     },
     {
       "name": "Ancient Troiamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14664,7 +14664,7 @@
     },
     {
       "name": "Waspmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14690,7 +14690,7 @@
     },
     {
       "name": "Puyomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14716,7 +14716,7 @@
     },
     {
       "name": "Ghostmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14742,7 +14742,7 @@
     },
     {
       "name": "Anomalocarimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14768,7 +14768,7 @@
     },
     {
       "name": "Skull Mammon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14794,7 +14794,7 @@
     },
     {
       "name": "Bowmon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14820,7 +14820,7 @@
     },
     {
       "name": "Strabimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -14846,7 +14846,7 @@
     },
     {
       "name": "Starmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14872,7 +14872,7 @@
     },
     {
       "name": "Parrotmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14898,7 +14898,7 @@
     },
     {
       "name": "Greymon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -14924,7 +14924,7 @@
     },
     {
       "name": "Kuwagamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -14950,7 +14950,7 @@
     },
     {
       "name": "Youkomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -14976,7 +14976,7 @@
     },
     {
       "name": "Destromon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15002,7 +15002,7 @@
     },
     {
       "name": "Marin Chimairamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15028,7 +15028,7 @@
     },
     {
       "name": "Whamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15054,7 +15054,7 @@
     },
     {
       "name": "Hackmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15080,7 +15080,7 @@
     },
     {
       "name": "Louwemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15106,7 +15106,7 @@
     },
     {
       "name": "Belial Vamdemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15132,7 +15132,7 @@
     },
     {
       "name": "Moosemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15158,7 +15158,7 @@
     },
     {
       "name": "Dynasmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15184,7 +15184,7 @@
     },
     {
       "name": "Rasenmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15210,7 +15210,7 @@
     },
     {
       "name": "Master Tyranomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15236,7 +15236,7 @@
     },
     {
       "name": "Saberdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15262,7 +15262,7 @@
     },
     {
       "name": "Panjyamon X",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15288,7 +15288,7 @@
     },
     {
       "name": "Guilmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15314,7 +15314,7 @@
     },
     {
       "name": "Tia Ludomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15340,7 +15340,7 @@
     },
     {
       "name": "Tsubumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15366,7 +15366,7 @@
     },
     {
       "name": "Cherubimon (Vice)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15392,7 +15392,7 @@
     },
     {
       "name": "Komondomon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15418,7 +15418,7 @@
     },
     {
       "name": "Stingmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15444,7 +15444,7 @@
     },
     {
       "name": "Vikemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15470,7 +15470,7 @@
     },
     {
       "name": "XV-mon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15496,7 +15496,7 @@
     },
     {
       "name": "Fladramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15522,7 +15522,7 @@
     },
     {
       "name": "Were Garurumon (Black)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15548,7 +15548,7 @@
     },
     {
       "name": "Airdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15574,7 +15574,7 @@
     },
     {
       "name": "Giga Seadramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15600,7 +15600,7 @@
     },
     {
       "name": "Machmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15626,7 +15626,7 @@
     },
     {
       "name": "Namakemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15652,7 +15652,7 @@
     },
     {
       "name": "Thunderbirmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15678,7 +15678,7 @@
     },
     {
       "name": "Kaus Gammamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15704,7 +15704,7 @@
     },
     {
       "name": "Orochimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15730,7 +15730,7 @@
     },
     {
       "name": "Piemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15756,7 +15756,7 @@
     },
     {
       "name": "Megalo Growmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15782,7 +15782,7 @@
     },
     {
       "name": "Crys Paledramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15808,7 +15808,7 @@
     },
     {
       "name": "Jellymon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15834,7 +15834,7 @@
     },
     {
       "name": "Puyomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -15860,7 +15860,7 @@
     },
     {
       "name": "Agumon (Black)",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -15886,7 +15886,7 @@
     },
     {
       "name": "Meramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15912,7 +15912,7 @@
     },
     {
       "name": "Shivamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15938,7 +15938,7 @@
     },
     {
       "name": "Metal Mamemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -15964,7 +15964,7 @@
     },
     {
       "name": "Betel Gammamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -15990,7 +15990,7 @@
     },
     {
       "name": "Baalmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16016,7 +16016,7 @@
     },
     {
       "name": "Mirage Gaogamon: Burst Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16042,7 +16042,7 @@
     },
     {
       "name": "Growmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16068,7 +16068,7 @@
     },
     {
       "name": "Lynxmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16094,7 +16094,7 @@
     },
     {
       "name": "Jesmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16120,7 +16120,7 @@
     },
     {
       "name": "Skull Baluchimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16146,7 +16146,7 @@
     },
     {
       "name": "Blastmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16172,7 +16172,7 @@
     },
     {
       "name": "Ryudamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16198,7 +16198,7 @@
     },
     {
       "name": "Mitamamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16224,7 +16224,7 @@
     },
     {
       "name": "Aquilamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16250,7 +16250,7 @@
     },
     {
       "name": "Growmon (Orange)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16276,7 +16276,7 @@
     },
     {
       "name": "Megidramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16302,7 +16302,7 @@
     },
     {
       "name": "Dodomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16328,7 +16328,7 @@
     },
     {
       "name": "Rukamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16354,7 +16354,7 @@
     },
     {
       "name": "Pucchiemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16380,7 +16380,7 @@
     },
     {
       "name": "Bao Hackmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16406,7 +16406,7 @@
     },
     {
       "name": "Imperialdramon: Paladin Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16432,7 +16432,7 @@
     },
     {
       "name": "Dokimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16458,7 +16458,7 @@
     },
     {
       "name": "Greymon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16484,7 +16484,7 @@
     },
     {
       "name": "Hououmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16510,7 +16510,7 @@
     },
     {
       "name": "Mach Gaogamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16536,7 +16536,7 @@
     },
     {
       "name": "Babydmon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16562,7 +16562,7 @@
     },
     {
       "name": "Dinorexmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16588,7 +16588,7 @@
     },
     {
       "name": "Pidmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16614,7 +16614,7 @@
     },
     {
       "name": "Fantomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16640,7 +16640,7 @@
     },
     {
       "name": "Olegmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -16666,7 +16666,7 @@
     },
     {
       "name": "Indaramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16692,7 +16692,7 @@
     },
     {
       "name": "Zurumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16718,7 +16718,7 @@
     },
     {
       "name": "Renamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16744,7 +16744,7 @@
     },
     {
       "name": "Lord Knightmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16770,7 +16770,7 @@
     },
     {
       "name": "Sakumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16796,7 +16796,7 @@
     },
     {
       "name": "Phelesmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16822,7 +16822,7 @@
     },
     {
       "name": "Chaos Dukemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16848,7 +16848,7 @@
     },
     {
       "name": "Meramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16874,7 +16874,7 @@
     },
     {
       "name": "Grottemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -16900,7 +16900,7 @@
     },
     {
       "name": "Jazamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -16926,7 +16926,7 @@
     },
     {
       "name": "Rare Raremon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16952,7 +16952,7 @@
     },
     {
       "name": "Chaosdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -16978,7 +16978,7 @@
     },
     {
       "name": "Chackmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17004,7 +17004,7 @@
     },
     {
       "name": "Mercuremon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17030,7 +17030,7 @@
     },
     {
       "name": "Lalamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17056,7 +17056,7 @@
     },
     {
       "name": "Coelamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17082,7 +17082,7 @@
     },
     {
       "name": "Tobiumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17108,7 +17108,7 @@
     },
     {
       "name": "Fenriloogamon: Takemikazuchi",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17134,7 +17134,7 @@
     },
     {
       "name": "Grey Wars",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17160,7 +17160,7 @@
     },
     {
       "name": "Justimon: Blitz Arm",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17186,7 +17186,7 @@
     },
     {
       "name": "Ebidramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17212,7 +17212,7 @@
     },
     {
       "name": "Cerberumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17238,7 +17238,7 @@
     },
     {
       "name": "Groundramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17264,7 +17264,7 @@
     },
     {
       "name": "Vorvomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17290,7 +17290,7 @@
     },
     {
       "name": "Armagemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17316,7 +17316,7 @@
     },
     {
       "name": "Justimon: Accel Arm",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17342,7 +17342,7 @@
     },
     {
       "name": "Koromon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17368,7 +17368,7 @@
     },
     {
       "name": "Porcupamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17394,7 +17394,7 @@
     },
     {
       "name": "Mega Seadramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17420,7 +17420,7 @@
     },
     {
       "name": "Black War Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17446,7 +17446,7 @@
     },
     {
       "name": "Fumamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17472,7 +17472,7 @@
     },
     {
       "name": "Tankdramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17498,7 +17498,7 @@
     },
     {
       "name": "Dorulumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17524,7 +17524,7 @@
     },
     {
       "name": "Soloogarmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17550,7 +17550,7 @@
     },
     {
       "name": "Flaremon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17576,7 +17576,7 @@
     },
     {
       "name": "Gigimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17602,7 +17602,7 @@
     },
     {
       "name": "Hi-Commandramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17628,7 +17628,7 @@
     },
     {
       "name": "Mephismon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17654,7 +17654,7 @@
     },
     {
       "name": "Liollmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17680,7 +17680,7 @@
     },
     {
       "name": "Pitchmon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17706,7 +17706,7 @@
     },
     {
       "name": "Fenriloogamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17732,7 +17732,7 @@
     },
     {
       "name": "Gyukimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17758,7 +17758,7 @@
     },
     {
       "name": "Tempomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17784,7 +17784,7 @@
     },
     {
       "name": "Parasimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17810,7 +17810,7 @@
     },
     {
       "name": "Imperialdramon: Fighter Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17836,7 +17836,7 @@
     },
     {
       "name": "Frimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17862,7 +17862,7 @@
     },
     {
       "name": "Ukkomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -17888,7 +17888,7 @@
     },
     {
       "name": "Mugendramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17914,7 +17914,7 @@
     },
     {
       "name": "DORUguremon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -17940,7 +17940,7 @@
     },
     {
       "name": "Monzaemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -17966,7 +17966,7 @@
     },
     {
       "name": "Loogamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -17992,7 +17992,7 @@
     },
     {
       "name": "Gaomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18018,7 +18018,7 @@
     },
     {
       "name": "Jyagamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18044,7 +18044,7 @@
     },
     {
       "name": "Omega Shoutmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18070,7 +18070,7 @@
     },
     {
       "name": "Lunamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18096,7 +18096,7 @@
     },
     {
       "name": "Bokomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18122,7 +18122,7 @@
     },
     {
       "name": "Lamortmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18148,7 +18148,7 @@
     },
     {
       "name": "Gigadramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18174,7 +18174,7 @@
     },
     {
       "name": "Bemmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18200,7 +18200,7 @@
     },
     {
       "name": "Agnimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18226,7 +18226,7 @@
     },
     {
       "name": "Cargodramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18252,7 +18252,7 @@
     },
     {
       "name": "Ancient Wisemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18278,7 +18278,7 @@
     },
     {
       "name": "Metal Greymon: Alterous Mode",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18304,7 +18304,7 @@
     },
     {
       "name": "Bibimon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18330,7 +18330,7 @@
     },
     {
       "name": "Monzaemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18356,7 +18356,7 @@
     },
     {
       "name": "Tinpet",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18382,7 +18382,7 @@
     },
     {
       "name": "Ancient Beatmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18408,7 +18408,7 @@
     },
     {
       "name": "Hopmon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18434,7 +18434,7 @@
     },
     {
       "name": "Tiger Vespamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18460,7 +18460,7 @@
     },
     {
       "name": "Rebellimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18486,7 +18486,7 @@
     },
     {
       "name": "Metallicdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18512,7 +18512,7 @@
     },
     {
       "name": "Ludomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18538,7 +18538,7 @@
     },
     {
       "name": "Ravmon: Burst Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18564,7 +18564,7 @@
     },
     {
       "name": "Huankunmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18590,7 +18590,7 @@
     },
     {
       "name": "Bearmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18616,7 +18616,7 @@
     },
     {
       "name": "Botamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18642,7 +18642,7 @@
     },
     {
       "name": "Kyukimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18668,7 +18668,7 @@
     },
     {
       "name": "Ancient Irismon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18694,7 +18694,7 @@
     },
     {
       "name": "Mirage Gaogamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18720,7 +18720,7 @@
     },
     {
       "name": "Dobermon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18746,7 +18746,7 @@
     },
     {
       "name": "Achillesmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -18772,7 +18772,7 @@
     },
     {
       "name": "Harpymon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18798,7 +18798,7 @@
     },
     {
       "name": "Ranamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18824,7 +18824,7 @@
     },
     {
       "name": "Metabee (Head and Arm)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18850,7 +18850,7 @@
     },
     {
       "name": "Volcamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18876,7 +18876,7 @@
     },
     {
       "name": "Pukamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -18902,7 +18902,7 @@
     },
     {
       "name": "Bancho Mamemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18928,7 +18928,7 @@
     },
     {
       "name": "Lilamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -18954,7 +18954,7 @@
     },
     {
       "name": "Saint Galgomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -18980,7 +18980,7 @@
     },
     {
       "name": "Siesamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19006,7 +19006,7 @@
     },
     {
       "name": "Metal Greymon (Vaccine)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19032,7 +19032,7 @@
     },
     {
       "name": "Mummymon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19058,7 +19058,7 @@
     },
     {
       "name": "Matadrmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19084,7 +19084,7 @@
     },
     {
       "name": "Anomalocarimon X",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -19110,7 +19110,7 @@
     },
     {
       "name": "Coronamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19136,7 +19136,7 @@
     },
     {
       "name": "Gammamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19162,7 +19162,7 @@
     },
     {
       "name": "Ketomon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19188,7 +19188,7 @@
     },
     {
       "name": "Cres Garurumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -19214,7 +19214,7 @@
     },
     {
       "name": "Angemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19240,7 +19240,7 @@
     },
     {
       "name": "Magnamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19266,7 +19266,7 @@
     },
     {
       "name": "Bakemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19292,7 +19292,7 @@
     },
     {
       "name": "Yuramon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19318,7 +19318,7 @@
     },
     {
       "name": "Darkdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19344,7 +19344,7 @@
     },
     {
       "name": "Sakuyamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -19370,7 +19370,7 @@
     },
     {
       "name": "Tailmon (Child)",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19396,7 +19396,7 @@
     },
     {
       "name": "Rokusho (Head and Arm)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19422,7 +19422,7 @@
     },
     {
       "name": "Cthyllamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19448,7 +19448,7 @@
     },
     {
       "name": "Splashmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19474,7 +19474,7 @@
     },
     {
       "name": "Yukidarumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19500,7 +19500,7 @@
     },
     {
       "name": "Bastemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19526,7 +19526,7 @@
     },
     {
       "name": "Rapidmon (Armor)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19552,7 +19552,7 @@
     },
     {
       "name": "Vajramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19578,7 +19578,7 @@
     },
     {
       "name": "V-mon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19604,7 +19604,7 @@
     },
     {
       "name": "Kyokyomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19630,7 +19630,7 @@
     },
     {
       "name": "Shakamon",
-      "stage": "super_ultimate",
+      "stage": "6",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19656,7 +19656,7 @@
     },
     {
       "name": "Shutumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19682,7 +19682,7 @@
     },
     {
       "name": "Runnermon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19708,7 +19708,7 @@
     },
     {
       "name": "Canoweissmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19734,7 +19734,7 @@
     },
     {
       "name": "Spinomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19760,7 +19760,7 @@
     },
     {
       "name": "Big Ukkomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19786,7 +19786,7 @@
     },
     {
       "name": "Kumbhiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19812,7 +19812,7 @@
     },
     {
       "name": "Monodramon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19838,7 +19838,7 @@
     },
     {
       "name": "Icemon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -19864,7 +19864,7 @@
     },
     {
       "name": "Jyarimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -19890,7 +19890,7 @@
     },
     {
       "name": "Garurumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -19916,7 +19916,7 @@
     },
     {
       "name": "Dokugumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19942,7 +19942,7 @@
     },
     {
       "name": "Algomon (Adult)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19968,7 +19968,7 @@
     },
     {
       "name": "Manticoremon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -19994,7 +19994,7 @@
     },
     {
       "name": "Shootmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20020,7 +20020,7 @@
     },
     {
       "name": "Metal Greymon (2010)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20046,7 +20046,7 @@
     },
     {
       "name": "Agumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20072,7 +20072,7 @@
     },
     {
       "name": "Dagomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20098,7 +20098,7 @@
     },
     {
       "name": "Slayerdramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20124,7 +20124,7 @@
     },
     {
       "name": "Devimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20150,7 +20150,7 @@
     },
     {
       "name": "Angewomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20176,7 +20176,7 @@
     },
     {
       "name": "Devidramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20202,7 +20202,7 @@
     },
     {
       "name": "Bancho Lilimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20228,7 +20228,7 @@
     },
     {
       "name": "Metal Tyranomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20254,7 +20254,7 @@
     },
     {
       "name": "War Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20280,7 +20280,7 @@
     },
     {
       "name": "Metal Seadramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20306,7 +20306,7 @@
     },
     {
       "name": "Metabee",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20332,7 +20332,7 @@
     },
     {
       "name": "Fusamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20358,7 +20358,7 @@
     },
     {
       "name": "Tortamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20384,7 +20384,7 @@
     },
     {
       "name": "Paildramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20410,7 +20410,7 @@
     },
     {
       "name": "Choromon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20436,7 +20436,7 @@
     },
     {
       "name": "Saber Leomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20462,7 +20462,7 @@
     },
     {
       "name": "Kuzuhamon: Miko Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20488,7 +20488,7 @@
     },
     {
       "name": "Pajiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20514,7 +20514,7 @@
     },
     {
       "name": "Pharaohmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20540,7 +20540,7 @@
     },
     {
       "name": "Gummymon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20566,7 +20566,7 @@
     },
     {
       "name": "Ancient Mermaimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20592,7 +20592,7 @@
     },
     {
       "name": "V-dramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20618,7 +20618,7 @@
     },
     {
       "name": "Imperialdramon: Dragon Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20644,7 +20644,7 @@
     },
     {
       "name": "Mihiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20670,7 +20670,7 @@
     },
     {
       "name": "Alphamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20696,7 +20696,7 @@
     },
     {
       "name": "Velgrmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20722,7 +20722,7 @@
     },
     {
       "name": "Pistmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20748,7 +20748,7 @@
     },
     {
       "name": "Neptunemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20774,7 +20774,7 @@
     },
     {
       "name": "Hi Andromon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20800,7 +20800,7 @@
     },
     {
       "name": "Ikkakumon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -20826,7 +20826,7 @@
     },
     {
       "name": "Kaiser Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -20852,7 +20852,7 @@
     },
     {
       "name": "Shellmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20878,7 +20878,7 @@
     },
     {
       "name": "Exermon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20904,7 +20904,7 @@
     },
     {
       "name": "Hyougamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20930,7 +20930,7 @@
     },
     {
       "name": "Raiji Ludomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -20956,7 +20956,7 @@
     },
     {
       "name": "Blade Kuwagamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -20982,7 +20982,7 @@
     },
     {
       "name": "Dukemon: Crimson Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21008,7 +21008,7 @@
     },
     {
       "name": "Symbare Angoramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21034,7 +21034,7 @@
     },
     {
       "name": "Shroudmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21060,7 +21060,7 @@
     },
     {
       "name": "Done Devimon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21086,7 +21086,7 @@
     },
     {
       "name": "Marin Devimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21112,7 +21112,7 @@
     },
     {
       "name": "DORUmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21138,7 +21138,7 @@
     },
     {
       "name": "Pomumon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21164,7 +21164,7 @@
     },
     {
       "name": "Coredramon (Green)",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21190,7 +21190,7 @@
     },
     {
       "name": "Chimairamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21216,7 +21216,7 @@
     },
     {
       "name": "Sandiramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21242,7 +21242,7 @@
     },
     {
       "name": "Lotusmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21268,7 +21268,7 @@
     },
     {
       "name": "Beowolfmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -21294,7 +21294,7 @@
     },
     {
       "name": "Eosmon (Perfect)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -21320,7 +21320,7 @@
     },
     {
       "name": "Arbormon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -21346,7 +21346,7 @@
     },
     {
       "name": "Dracomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21372,7 +21372,7 @@
     },
     {
       "name": "Bulkmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21398,7 +21398,7 @@
     },
     {
       "name": "Firamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21424,7 +21424,7 @@
     },
     {
       "name": "Piyomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21450,7 +21450,7 @@
     },
     {
       "name": "Rosemon: Burst Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21476,7 +21476,7 @@
     },
     {
       "name": "Ghilliedhumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21502,7 +21502,7 @@
     },
     {
       "name": "Jazarichmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21528,7 +21528,7 @@
     },
     {
       "name": "Armadimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -21554,7 +21554,7 @@
     },
     {
       "name": "Thunderballmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21580,7 +21580,7 @@
     },
     {
       "name": "Arresterdramon: Superior Mode",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21606,7 +21606,7 @@
     },
     {
       "name": "Mametyramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21632,7 +21632,7 @@
     },
     {
       "name": "Oboromon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21658,7 +21658,7 @@
     },
     {
       "name": "Caturamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21684,7 +21684,7 @@
     },
     {
       "name": "Ex-Tyranomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21710,7 +21710,7 @@
     },
     {
       "name": "Gusokumon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21736,7 +21736,7 @@
     },
     {
       "name": "Susanoomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21762,7 +21762,7 @@
     },
     {
       "name": "Zudomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21788,7 +21788,7 @@
     },
     {
       "name": "Diarbbitmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -21814,7 +21814,7 @@
     },
     {
       "name": "Sunflowmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21840,7 +21840,7 @@
     },
     {
       "name": "Rasenmon: Fury Mode",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21866,7 +21866,7 @@
     },
     {
       "name": "Wezen Gammamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21892,7 +21892,7 @@
     },
     {
       "name": "Nidhoggmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21918,7 +21918,7 @@
     },
     {
       "name": "Zamielmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21944,7 +21944,7 @@
     },
     {
       "name": "Mamemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -21970,7 +21970,7 @@
     },
     {
       "name": "Wisemon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -21996,7 +21996,7 @@
     },
     {
       "name": "Mokumon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22022,7 +22022,7 @@
     },
     {
       "name": "Kuzuhamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22048,7 +22048,7 @@
     },
     {
       "name": "Upamon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22074,7 +22074,7 @@
     },
     {
       "name": "Blizzarmon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22100,7 +22100,7 @@
     },
     {
       "name": "Duramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22126,7 +22126,7 @@
     },
     {
       "name": "Palmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22152,7 +22152,7 @@
     },
     {
       "name": "Kakkinmon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22178,7 +22178,7 @@
     },
     {
       "name": "Death-X-Dorugoramon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22204,7 +22204,7 @@
     },
     {
       "name": "Piccolomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22230,7 +22230,7 @@
     },
     {
       "name": "Cherubimon (Virtue)",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22256,7 +22256,7 @@
     },
     {
       "name": "Reppamon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22282,7 +22282,7 @@
     },
     {
       "name": "Gold V-dramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22308,7 +22308,7 @@
     },
     {
       "name": "Loogarmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22334,7 +22334,7 @@
     },
     {
       "name": "Rize Greymon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22360,7 +22360,7 @@
     },
     {
       "name": "Digitamamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22386,7 +22386,7 @@
     },
     {
       "name": "Bloom Lordmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22412,7 +22412,7 @@
     },
     {
       "name": "Kokuwamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22438,7 +22438,7 @@
     },
     {
       "name": "Ragnamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22464,7 +22464,7 @@
     },
     {
       "name": "Omegamon Zwart",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22490,7 +22490,7 @@
     },
     {
       "name": "Tanemon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22516,7 +22516,7 @@
     },
     {
       "name": "Blucomon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22542,7 +22542,7 @@
     },
     {
       "name": "Bancho Stingmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22568,7 +22568,7 @@
     },
     {
       "name": "Gran Kuwagamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22594,7 +22594,7 @@
     },
     {
       "name": "Ancient Greymon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -22620,7 +22620,7 @@
     },
     {
       "name": "Metal Etemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22646,7 +22646,7 @@
     },
     {
       "name": "Patamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22672,7 +22672,7 @@
     },
     {
       "name": "Pukumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22698,7 +22698,7 @@
     },
     {
       "name": "Locomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22724,7 +22724,7 @@
     },
     {
       "name": "Plesiomon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22750,7 +22750,7 @@
     },
     {
       "name": "Sakuttomon",
-      "stage": "baby_2",
+      "stage": "1",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22776,7 +22776,7 @@
     },
     {
       "name": "Oleamon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22802,7 +22802,7 @@
     },
     {
       "name": "Jokermon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22828,7 +22828,7 @@
     },
     {
       "name": "Ragna Lordmon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22854,7 +22854,7 @@
     },
     {
       "name": "Duskmon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -22880,7 +22880,7 @@
     },
     {
       "name": "Death Meramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22906,7 +22906,7 @@
     },
     {
       "name": "Platinum Numemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22932,7 +22932,7 @@
     },
     {
       "name": "Metal Greymon (Virus)",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -22958,7 +22958,7 @@
     },
     {
       "name": "Herissmon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -22984,7 +22984,7 @@
     },
     {
       "name": "Waru Seadramon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -23010,7 +23010,7 @@
     },
     {
       "name": "Loader Leomon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -23036,7 +23036,7 @@
     },
     {
       "name": "Gazimon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -23062,7 +23062,7 @@
     },
     {
       "name": "Neo Vamdemon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -23088,7 +23088,7 @@
     },
     {
       "name": "Dukemon X",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "virus",
       "format": 1,
       "donation_link": "",
@@ -23114,7 +23114,7 @@
     },
     {
       "name": "Silphymon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -23140,7 +23140,7 @@
     },
     {
       "name": "Thetismon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -23166,7 +23166,7 @@
     },
     {
       "name": "Z\\'d Garurumon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -23192,7 +23192,7 @@
     },
     {
       "name": "Mail Birdramon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -23218,7 +23218,7 @@
     },
     {
       "name": "Sunamon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -23244,7 +23244,7 @@
     },
     {
       "name": "Kudamon",
-      "stage": "child",
+      "stage": "2",
       "attribute": "vaccine",
       "format": 1,
       "donation_link": "",
@@ -23270,7 +23270,7 @@
     },
     {
       "name": "Curimon",
-      "stage": "baby_1",
+      "stage": "0",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -23296,7 +23296,7 @@
     },
     {
       "name": "Cockatrimon",
-      "stage": "adult",
+      "stage": "3",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
@@ -23322,7 +23322,7 @@
     },
     {
       "name": "Rhino Kabuterimon",
-      "stage": "perfect",
+      "stage": "4",
       "attribute": "free",
       "format": 1,
       "donation_link": "",
@@ -23348,7 +23348,7 @@
     },
     {
       "name": "Devitamamon",
-      "stage": "ultimate",
+      "stage": "5",
       "attribute": "data",
       "format": 1,
       "donation_link": "",
