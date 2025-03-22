@@ -7,14 +7,20 @@
       "3": "Adult",
       "4": "Perfect",
       "5": "Ultimate",
-      "6": "Super Ultimate"
+      "6": "Super Ultimate",
+      "7": "Armor",
+      "8": "Hybrid",
+      "9": "Unknown"
     },
     "attribute": {
-      "-1": "Unknown",
+      "-1": "Unlabelled",
       "0": "Free",
       "1": "Virus",
       "2": "Data",
-      "3": "Vaccine"
+      "3": "Vaccine",
+      "4": "Variable",
+      "5": "NO DATA",
+      "6": "Unknown"
     }
   },
   "formats": [
