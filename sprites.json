@@ -52,6 +52,20 @@
       "sleep_2",
       "sick",
       "lose"
+    ],
+    [
+      "idle_1",
+      "idle_2",
+      "eat_1",
+      "eat_2",
+      "sleep_1",
+      "sleep_2",
+      "refuse",
+      "happy",
+      "angry",
+      "sick",
+      "lose",
+      "atk_2"
     ]
   ],
   "vpet_formats": {
@@ -84,7 +98,24 @@
       "angry",
       "sick",
       "lose",
-      "atk_1"
+      "atk_2"
+    ],
+    "penc_to_dmc": [
+      "idle_1",
+      "idle_2",
+      "happy",
+      "angry",
+      "atk_2",
+      "idle_2",
+      "atk_2",
+      "idle_2",
+      "eat_1",
+      "eat_2",
+      "refuse",
+      "sleep_1",
+      "sleep_2",
+      "sick",
+      "lose"
     ]
   },
   "sprites": [
