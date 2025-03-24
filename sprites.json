@@ -63458,33 +63458,6 @@
       "size": "48x48"
     },
     {
-      "name": "DemiDevimon",
-      "stage": "2",
-      "attribute": "1",
-      "author": "SomaKiryuu",
-      "donation_link": "https://www.paypal.com/paypalme/kiryuusoma",
-      "format": 1,
-      "type": "character_sprite",
-      "images": [
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/a_picodevimon*somakiryuu_idle_1.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/b_picodevimon*somakiryuu_idle_2.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/c_picodevimon*somakiryuu_happy.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/d_picodevimon*somakiryuu_angry.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/e_picodevimon*somakiryuu_training_1.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/f_picodevimon*somakiryuu_training_2.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/g_picodevimon*somakiryuu_attack_1.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/h_picodevimon*somakiryuu_attack_2.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/i_picodevimon*somakiryuu_eat_1.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/j_picodevimon*somakiryuu_eat_2.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/k_picodevimon*somakiryuu_refuse.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/l_picodevimon*somakiryuu_sleep_1.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/m_picodevimon*somakiryuu_sleep_2.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/n_picodevimon*somakiryuu_sick.png",
-        "https://tero0x.github.io/dmc-sprites/images/SomaKiryuu/picodevimon/o_picodevimon*somakiryuu_sick_lose.png"
-      ],
-      "size": "48x48"
-    },
-    {
       "name": "MirageGaogamon",
       "stage": "5",
       "attribute": "2",
