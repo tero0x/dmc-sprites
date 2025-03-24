@@ -61458,6 +61458,60 @@
         "https://tero0x.github.io/dmc-sprites/images/kolt/gryzmon/o_gryzmon*kolt_sick_lose.png"
       ],
       "size": "48x48"
+    },
+    {
+      "name": "Jesmon",
+      "stage": "5",
+      "attribute": "2",
+      "author": "bueak",
+      "donation_link": "",
+      "format": 1,
+      "type": "character_sprite",
+      "images": [
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/a_jesmon*bueak0_idle_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/b_jesmon*bueak0_idle_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/c_jesmon*bueak0_happy.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/d_jesmon*bueak0_angry.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/e_jesmon*bueak0_training_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/f_jesmon*bueak0_training_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/g_jesmon*bueak0_attack_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/h_jesmon*bueak0_attack_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/i_jesmon*bueak0_eat_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/j_jesmon*bueak0_eat_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/k_jesmon*bueak0_refuse.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/l_jesmon*bueak0_sleep_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/m_jesmon*bueak0_sleep_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/n_jesmon*bueak0_sick.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/jesmon-2/o_jesmon*bueak0_sick_lose.png"
+      ],
+      "size": "48x48"
+    },
+    {
+      "name": "Wizardmon",
+      "stage": "3",
+      "attribute": "2",
+      "author": "bueak",
+      "donation_link": "",
+      "format": 1,
+      "type": "character_sprite",
+      "images": [
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/a_wizardmon*bueak0_idle_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/b_wizardmon*bueak0_idle_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/c_wizardmon*bueak0_happy.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/d_wizardmon*bueak0_angry.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/e_wizardmon*bueak0_training_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/f_wizardmon*bueak0_training_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/g_wizardmon*bueak0_attack_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/h_wizardmon*bueak0_attack_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/i_wizardmon*bueak0_eat_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/j_wizardmon*bueak0_eat_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/k_wizardmon*bueak0_refuse.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/l_wizardmon*bueak0_sleep_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/m_wizardmon*bueak0_sleep_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/n_wizardmon*bueak0_sick.png",
+        "https://tero0x.github.io/dmc-sprites/images/bueak/wizardmon-2/o_wizardmon*bueak0_sick_lose.png"
+      ],
+      "size": "48x48"
     }
   ]
 }
