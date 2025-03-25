@@ -66885,6 +66885,60 @@
         "https://tero0x.github.io/dmc-sprites/images/phrogmentado/keramon/o_keramon_sick_lose.png"
       ],
       "size": "48x48"
+    },
+    {
+      "name": "Breakdramon",
+      "stage": "5",
+      "attribute": "1",
+      "author": "ilabb",
+      "donation_link": "",
+      "format": 1,
+      "type": "character_sprite",
+      "images": [
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/a_breakdramon_idle_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/b_breakdramon_idle_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/c_breakdramon_happy.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/d_breakdramon_angry.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/e_breakdramon_training_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/f_breakdramon_training_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/g_breakdramon_attack_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/h_breakdramon_attack_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/i_breakdramon_eat_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/j_breakdramon_eat_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/k_breakdramon_refuse.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/l_breakdramon_sleep_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/m_breakdramon_sleep_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/n_breakdramon_sick.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/breakdramon/o_breakdramon_sick_lose.png"
+      ],
+      "size": "48x48"
+    },
+    {
+      "name": "Slayerdramon",
+      "stage": "5",
+      "attribute": "3",
+      "author": "ilabb",
+      "donation_link": "",
+      "format": 1,
+      "type": "character_sprite",
+      "images": [
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/a_slayerdramon_idle_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/b_slayerdramon_idle_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/c_slayerdramon_happy.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/d_slayerdramon_angry.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/e_slayerdramon_training_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/f_slayerdramon_training_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/g_slayerdramon_attack_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/h_slayerdramon_attack_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/i_slayerdramon_eat_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/j_slayerdramon_eat_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/k_slayerdramon_refuse.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/l_slayerdramon_sleep_1.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/m_slayerdramon_sleep_2.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/n_slayerdramon_sick.png",
+        "https://tero0x.github.io/dmc-sprites/images/ilabb/slayerdramon/o_slayerdramon_sick_lose.png"
+      ],
+      "size": "48x48"
     }
   ]
 }
