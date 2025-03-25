@@ -34660,7 +34660,7 @@
     {
       "name": "Bakumon",
       "stage": "2",
-      "attribute": "1",
+      "attribute": "3",
       "power": 10,
       "format": 2,
       "donation_link": "",
@@ -53034,7 +53034,7 @@
       "name": "Bakumon",
       "stage": "2",
       "author": "tortoisehel",
-      "attribute": "1",
+      "attribute": "3",
       "format": 1,
       "donation_link": "",
       "type": "character_sprite",
