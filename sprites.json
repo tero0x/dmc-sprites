@@ -31365,7 +31365,6 @@
       "author": "Bandai",
       "type": "character_sprite",
       "images": [
-        "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/465.png",
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/466.png",
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/467.png",
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/468.png",
@@ -31379,7 +31378,8 @@
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/476.png",
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/477.png",
         "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/478.png",
-        "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/479.png"
+        "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/479.png",
+        "https://tero0x.github.io/dmc-sprites/images/original/dmc/v2/480.png"
       ],
       "size": "48x48"
     },
